@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://teslaligado.github.io/sitemap.xml
+Sitemap: https://teslaligado.pt/sitemap.xml
