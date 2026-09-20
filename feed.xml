@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>TeslaLigado</title>
+  <link>https://teslaligado.pt/</link>
+  <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
+  <language>pt-PT</language>
+  <lastBuildDate>Sun, 20 Sep 2026 07:53:04 GMT</lastBuildDate>
+  <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Smart Summon maior na Europa, bateria gigante na Bélgica e o Roadster está de volta</title>
+    <link>https://teslaligado.pt/artigos/smart-summon-maior-europa-bateria-belgica-roadster.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/smart-summon-maior-europa-bateria-belgica-roadster.html</guid>
+    <pubDate>Sun, 20 Sep 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Software</category>
+    <category>Energia</category>
+    <category>Portugal</category>
+    <description>A UNECE quer triplicar o alcance do Smart Summon na Europa, a Tesla arranca a construção de uma das maiores baterias do continente na Bélgica, chega o desvio automático de colisões ao FSD e as reservas do novo Roadster reabrem a nível mundial.</description>
+    <content:encoded><![CDATA[<p>Esta semana trouxe quatro novidades da Tesla que tocam a Europa de formas diferentes. A UNECE propôs triplicar o alcance do Smart Summon nos carros vendidos cá, de 6 para 15 metros. Na Bélgica arrancou a construção de uma das maiores baterias de energia do continente, equipada com 640 unidades Megapack da Tesla. Chegou também a atualização 2026.27.10, com desvio automático de colisões para quem tem o computador AI4. E, do outro lado do Atlântico, a Tesla reabriu as reservas do novo Roadster a nível mundial, a menos de duas semanas da revelação marcada para 1 de outubro.</p>
+<h3>Smart Summon vai poder estacionar mais longe</h3>
+<p>A Actually Smart Summon chegou à Europa e ao Médio Oriente em novembro de 2024, mas com um limite curto: o carro só se podia mover 6 metros sozinho, bem menos do que na América do Norte. Agora a UNECE, a comissão das Nações Unidas que regula a segurança automóvel na Europa, propôs alargar esse limite para 15 metros, um aumento de 2,5 vezes. A proposta ainda não foi formalmente aprovada nem tem data de entrada em vigor, mas se avançar aproxima a experiência europeia da norte-americana. É a mesma UNECE que está a avaliar, num processo separado, o pedido que pode levar o FSD Supervised a toda a União Europeia, com <a class="ilink" href="https://teslaligado.pt/artigos/fsd-eslovenia-votacao-europeia-6-outubro.html">a votação de 6 de outubro</a> em cima da mesa.</p>
+<h3>Bateria gigante na Bélgica, com tecnologia Tesla</h3>
+<p>Na região de Dilsen-Stokkem, perto da fronteira com a Holanda e a Alemanha, a promotora holandesa GIGA Storage arrancou a construção do Green Turtle, um dos maiores parques de baterias da Europa: 700 MW de potência e 2 800 MWh de capacidade, o equivalente a 2,8 GWh, suficiente para abastecer cerca de 385 mil casas no pico de procura. A Tesla foi escolhida como parceira de engenharia, construção e fornecimento, e vai instalar 640 unidades Megapack 3, além de ficar responsável pela manutenção a longo prazo. As obras começaram em meados de agosto, com entrada em funcionamento prevista para março de 2028, ligada diretamente à rede de alta tensão da operadora belga Elia.</p>
+<h3>Desvio automático de colisões chega ao FSD</h3>
+<p>A atualização 2026.27.10 já começou a chegar aos carros com uma função nova para quem tem o computador AI4: o desvio automático de colisões. Se o condutor guiar manualmente com o FSD ligado e o sistema detetar risco de colisão frontal iminente a menos de 137 km/h, pode ativar temporariamente a pilha completa do FSD Supervised para desviar do obstáculo, travando, acelerando ou virando. A Tesla fala num tempo de reação cerca de 20% mais rápido do que antes. A mesma atualização traz a versão v14.3.10 do FSD para os carros AI4 e uma versão mais leve, a v14.2 Lite, para quem ainda tem Hardware 3. É um passo a caminho da <a class="ilink" href="https://teslaligado.pt/artigos/fsd-belgica-plano-v15-semi-chega-europa.html">versão 15 do FSD, dez vezes maior</a>, já confirmada para o final de 2026 ou início de 2027.</p>
+<h3>Roadster volta a aceitar reservas, sem preço nem data para a Europa</h3>
+<p>A Tesla reabriu as reservas do novo Roadster a nível mundial, a poucos dias da revelação marcada para 1 de outubro, em Waco, no Texas. Nos Estados Unidos, o sinal é de 50 mil dólares, dos quais 5 mil ficam confirmados no cartão de crédito e os restantes 45 mil por transferência; no Canadá sobe para 64 mil dólares canadianos, e na China fica nos 332 mil yuan. A produção continua projetada, sem confirmação oficial, para 2027 ou 2028, e a Tesla não divulgou informação sobre preços ou disponibilidade para a Europa.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>Nenhuma destas notícias muda hoje o dia a dia de quem conduz um Tesla em Portugal, mas todas apontam para onde a marca está a investir. Se a proposta da UNECE avançar, o Smart Summon vai ficar mais útil por cá, sem sair do carro para o tirar de um lugar apertado. A bateria da Bélgica confirma que a Tesla aposta a sério na rede elétrica europeia, bom sinal para quem depende da estabilidade da rede para carregar em casa ou num Supercharger. O desvio automático de colisões só chega para já a quem tem o computador AI4, mas é o tipo de função de segurança que reforça o argumento da Tesla antes da votação de 6 de outubro. E o Roadster, por mais espetacular que pareça, continua a ser conversa para norte-americanos: sem preço nem data para a Europa, é melhor não contar com ele em Portugal tão cedo.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>FSD mais seguro na Bélgica, plano da Tesla até à versão 15 e o Semi chega à Europa</title>
+    <link>https://teslaligado.pt/artigos/fsd-belgica-plano-v15-semi-chega-europa.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-belgica-plano-v15-semi-chega-europa.html</guid>
+    <pubDate>Sat, 19 Sep 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Semi</category>
+    <category>Software</category>
+    <category>Portugal</category>
+    <description>Novos dados da Bélgica mostram até 9,6 vezes menos acidentes com o FSD Supervised, a Tesla revela como será a versão 15 e o camião Semi arranca vendas em Hannover, tudo a menos de três semanas da votação europeia de 6 de outubro.</description>
+    <content:encoded><![CDATA[<p>Esta semana trouxe três frentes de notícias da Tesla na Europa. Na Bélgica, os primeiros meses com o FSD Supervised aprovado mostram uma redução muito acentuada de acidentes fora de autoestrada. Ao mesmo tempo, a Tesla revelou como vai evoluir o FSD nos próximos meses, com uma versão 15 muito maior. E em Hannover, na feira IAA Transportation, arrancaram oficialmente as vendas do camião elétrico Semi na Europa. Tudo isto acontece a menos de três semanas da votação de 6 de outubro em Bruxelas, que pode decidir se o FSD Supervised chega ao resto da União Europeia, incluindo Portugal.</p>
+<h3>Bélgica confirma: menos acidentes com o FSD Supervised</h3>
+<p>A Tesla publicou dados recolhidos na Bélgica entre 11 de junho e 31 de agosto, os primeiros meses depois da aprovação do FSD Supervised no país. Segundo a marca, os condutores percorreram 24,6 milhões de quilómetros com o sistema ativo. Fora de autoestrada, houve apenas 1 colisão em 9,5 milhões de km percorridos com FSD, contra 150 colisões em 146,9 milhões de km percorridos manualmente no mesmo período, ou seja, 9,6 vezes menos acidentes. Em autoestrada a melhoria ronda os 30%, e os sistemas de travagem automática de emergência ativaram-se 93% menos vezes com o FSD ligado.</p>
+<p>Estes números juntam-se aos que a Tesla já tinha divulgado para a Holanda, a Dinamarca e a Lituânia, e servem de argumento central antes da <a class="ilink" href="https://teslaligado.pt/artigos/fsd-eslovenia-votacao-europeia-6-outubro.html">votação de 6 de outubro no Comité Técnico de Veículos a Motor da UE</a>, que precisa do apoio de pelo menos 15 países que representem 65% da população europeia para aprovar o FSD Supervised em todo o bloco, Portugal incluído.</p>
+<h3>Tesla mostra o caminho até à versão 15 do FSD</h3>
+<p>Longe da polémica regulatória, a Tesla também revelou por onde vai o desenvolvimento do FSD nos próximos tempos. O destaque é a versão 15, que deverá ter cerca de dez mil milhões de parâmetros, dez vezes mais do que a versão atual, com chegada prevista para o final de 2026 ou início de 2027. Entre as novidades anunciadas estão a navegação por voz com o assistente Grok, da xAI, capaz de perceber comandos como &quot;evita a Rua Principal e estaciona no lugar mais próximo&quot;; a deteção e desvio automático de buracos na estrada; e um modo de estacionamento que aprende as preferências de cada condutor.</p>
+<p>A Tesla confirmou ainda que os carros com Hardware 3 vão receber um novo computador, o AI4+, e que o chip AI5 já entrou em produção piloto no Texas, com fabrico em grande escala previsto para 2027. Para já, nada disto tem data para a Europa, onde o FSD Supervised continua limitado aos países que já deram aprovação regulatória.</p>
+<h3>O Semi chega à Europa, mas ainda sem data para Portugal</h3>
+<p>Na feira IAA Transportation, em Hannover (15 a 20 de setembro), a Tesla lançou oficialmente as vendas do camião elétrico Semi no mercado europeu. A transportadora sueca Einride já encomendou 500 unidades, a PepsiCo opera 86 e a DHL tem uma unidade em testes. O Semi promete cerca de 550 km de autonomia e carregamento a 800 kW, o suficiente para recuperar 60% da bateria em 30 minutos. As entregas na Europa só devem arrancar em 2027, e a Tesla ainda não anunciou preços para o mercado europeu, depois de nos Estados Unidos as versões custarem entre 227 mil e 253 mil euros ao câmbio atual.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>Nenhuma destas notícias muda, para já, o dia a dia de quem conduz um Tesla em Portugal: o FSD Supervised continua por aprovar no país, e o Semi não tem data nem preço confirmados para cá. Mas juntas, mostram a direção das coisas. Os dados da Bélgica são exatamente o tipo de argumento que pode pesar na votação de 6 de outubro, e uma aprovação a nível europeu abriria a porta para Portugal avançar sem precisar de esperar por uma decisão isolada do regulador nacional. Já a versão 15 do FSD é um lembrete de que, mesmo com a aprovação ainda pendente, o software não pára de evoluir, o que conta para quem está a decidir entre comprar agora ou esperar. Quanto ao Semi, é sobretudo uma notícia para empresas de transporte, mas mostra que a Tesla continua a investir a sério na Europa, o que só é boa notícia para quem depende da rede de assistência e Superchargers da marca por cá.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>FSD chega à Eslovénia e a Europa decide a 6 de outubro: o que muda para Portugal</title>
+    <link>https://teslaligado.pt/artigos/fsd-eslovenia-votacao-europeia-6-outubro.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-eslovenia-votacao-europeia-6-outubro.html</guid>
+    <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Software</category>
+    <category>Portugal</category>
+    <description>Sexto país aprova o FSD Supervised, a UE vota uma isenção para todo o bloco daqui a três semanas, e a 2026.32 começa a chegar aos carros. Ponto de situação para quem conduz Tesla em Portugal.</description>
+    <content:encoded><![CDATA[<p>Semana cheia para quem segue a Tesla na Europa. A Eslovénia tornou-se o sexto país a aprovar o FSD Supervised, a União Europeia marcou para 6 de outubro a votação que pode abrir o sistema aos 27 Estados-membros de uma vez, e a atualização 2026.32 começou a chegar aos carros com uma correção de recall feita por via aérea. Em Portugal continuamos à espera, mas o calendário nunca esteve tão próximo.</p>
+<h3>Eslovénia aprova, e acaba a pausa de dois meses</h3>
+<p>A Tesla Europe anunciou a 7 de setembro que o FSD Supervised está aprovado na Eslovénia, com rollout &quot;em breve&quot;. É o primeiro país novo desde a Bélgica, em junho, e fecha uma pausa de dois meses que já começava a preocupar quem acompanha o processo.</p>
+<p>A lista europeia fica assim: Países Baixos (abril), Lituânia e Estónia (maio), Dinamarca e Bélgica (junho) e agora Eslovénia. Todos aprovaram com base na mesma avaliação, feita pelo regulador holandês RDW ao abrigo do Regulamento ONU 171. Ainda não há data de rollout, número de build nem lista de hardware compatível para a Eslovénia.</p>
+<h3>6 de outubro: a votação que interessa mesmo</h3>
+<p>O caminho país a país tem sido lento porque cada Estado precisa de reconhecer a homologação holandesa. A alternativa está marcada: a 6 de outubro o comité técnico da UE vota uma isenção ao abrigo do Artigo 39, que estenderia a aprovação a todo o bloco, incluindo Portugal.</p>
+<p>Não vai ser uma votação pacífica. O dossier de testes do RDW foi classificado como informação comercial confidencial a pedido da Tesla, e os outros cinco países aceitaram a certificação sem avaliação própria. A Suécia opôs-se formalmente enquanto existir a função Speed Offset, que permite ao carro exceder o limite de velocidade. A França levantou dúvidas sobre velocidade e monitorização do condutor em ambiente urbano, e o Conselho Europeu de Segurança nos Transportes falou em dados de segurança pouco fiáveis. Se a isenção passar, o FSD fica legal para cerca de 450 milhões de pessoas; se falhar, voltamos ao ritmo de um país de cada vez.</p>
+<h3>2026.32 já anda na rua</h3>
+<p>A atualização 2026.32 foi vista pela primeira vez a 9 de setembro. As novidades visíveis são o menu das jantes, que passa a mostrar renders a cores de cada estilo, com e sem tampas aerodinâmicas, e a pesquisa dentro da biblioteca pessoal do Apple Music. A parte mais importante para os donos europeus é menos vistosa: a atualização inclui a correção do recall europeu 2026_103555, relacionado com impacto lateral, feita por over-the-air e sem visita ao serviço. Vêm também patches de segurança. A Tesla não detalhou modelos nem regiões, por isso a chegada a cada carro pode demorar algumas semanas.</p>
+<h3>Vendas: um trimestre mau até ao último dia</h3>
+<p>Os registos da Tesla na Europa estavam, a 25 de agosto, no valor mais baixo desde que há monitorização para esta altura do trimestre. Os números de julho são duros: 24 carros na Noruega (menos 97% que há um ano, embora o acumulado do ano esteja positivo, com 14 413 unidades) e 131 em Espanha. França (+86%) e Dinamarca (+52%) foram as exceções.</p>
+<p>Há contexto: a Tesla concentra entregas nas últimas semanas de cada trimestre e havia um volume grande de carros de Xangai em trânsito para registar em setembro. Mesmo assim, a pressão de marcas europeias e chinesas é real, e o resultado do trimestre vai depender quase todo das próximas duas semanas.</p>
+<h3>Model Y L: homologado, mas ainda não para nós</h3>
+<p>O Model Y L de seis lugares, com 4,96 m, bateria de 88,2 kWh e até 681 km WLTP, já tem homologação de tipo europeia através do RDW. Lançou nos EUA a 2 de julho e continua fora dos planos oficiais para a Europa, onde a Tesla prefere vender o Model Y de sete lugares (a partir de 55 490 € em Portugal). Sem preço em euros, as estimativas apontam para mais de 60 000 € cá, com isenção de ISV e IUC reduzido como qualquer elétrico.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>A data a marcar no calendário é 6 de outubro. Se a isenção europeia passar, o FSD Supervised deixa de depender de uma decisão do IMT e fica disponível por subscrição, a 99 €/mês (49 €/mês para quem já tem Enhanced Autopilot), já que a compra única acabou em maio. Até lá, vale a pena instalar a 2026.32 assim que aparecer, sobretudo pela correção do recall, e olhar para o fim de setembro como o momento em que a Tesla vai tentar salvar o trimestre europeu com preços e stock.</p>]]></content:encoded>
+  </item>
+</channel>
+</rss>
