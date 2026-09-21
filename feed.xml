@@ -6,7 +6,7 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 21 Sep 2026 06:44:26 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 10:19:52 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
   <item>
     <title>Mapas 3D nos Superchargers, o Model 3 lidera em Espanha e chega o Powerwall 3P a Portugal</title>
@@ -28,6 +28,33 @@
 <p>A Tesla abriu a 4 de setembro as encomendas do Powerwall 3P em Portugal, depois de já estar disponível na Alemanha e nos Países Baixos. A diferença para o Powerwall 3 já conhecido é a ligação trifásica: uma bateria doméstica de 13,5 kWh com inversor híbrido integrado, capaz de entregar até 15,4 kW de potência contínua e picos de 21 kW, com o sistema Tesla Home a acompanhar em tempo real a produção solar e o consumo da casa. A escolha de Portugal como um dos primeiros mercados depois da Alemanha e dos Países Baixos não é coincidência: a rede elétrica trifásica é comum nas casas portuguesas, ao contrário do que acontece em muitos países onde a Tesla vende o Powerwall 3 de fase única. A Tesla não divulgou preço; as encomendas fazem-se junto de um Técnico de Instalação Certificado, que orça a instalação casa a casa, e a disponibilidade real vai depender do número de instaladores certificados no território.</p>
 <h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
 <p>Nenhuma destas notícias é sobre o carro em si, mas todas tocam de perto quem cá tem ou pondera ter um Tesla. Os mapas de Supercharger já incluem pelo menos uma estação portuguesa, e é natural que a cobertura cresça nas próximas semanas ao ritmo de mais de 300 localizações por semana que a Tesla tem mantido a nível mundial: vale a pena verificar na app se a tua estação habitual já aparece. O caso espanhol é sobretudo um aviso do que está para vir: se os elétricos chineses estão a ganhar terreno mesmo num mercado onde o Model 3 lidera as matrículas gerais, é natural que a pressão sobre os <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">preços da gama Tesla</a> em Portugal continue. E para quem já tem painéis solares ou está a pensar nisso, o Powerwall 3P é a primeira vez que a Tesla oferece uma bateria pensada de raiz para a instalação elétrica típica de uma casa portuguesa, ainda que sem preço público e dependente da disponibilidade de instaladores certificados na tua zona.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Chéquia pode ter aprovado o FSD, IL pede testes em Portugal, e o Roadster aproxima-se</title>
+    <link>https://teslaligado.pt/artigos/chequia-fsd-testes-portugal-roadster-powerwall.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/chequia-fsd-testes-portugal-roadster-powerwall.html</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Portugal</category>
+    <category>Europa</category>
+    <category>Energia</category>
+    <description>A Tesla diz que o FSD Supervised foi aprovado na Chéquia, ainda sem confirmação do Ministério, a Iniciativa Liberal pede testes em Portugal antes da votação de 6 de outubro, e o Cybertruck já alimenta a casa através do Powerwall.</description>
+    <content:encoded><![CDATA[<p>Esta semana trouxe cinco frentes diferentes para quem segue a Tesla, e a mais quente chegou esta manhã: a Tesla diz que o FSD Supervised foi aprovado na Chéquia, o que seria o sétimo país europeu, mas o Ministério dos Transportes checo ainda não confirmou. Chegou também um pedido político em Portugal, novos dados de segurança do FSD na Austrália e Nova Zelândia, o countdown para o novo Roadster ficou mais concreto, e a Tesla lançou uma função que deixa o Cybertruck alimentar a casa através do Powerwall.</p>
+<h3>Chéquia pode ser o sétimo país a aprovar o FSD, mas falta confirmação oficial</h3>
+<p>A conta europeia da Tesla anunciou esta manhã que o FSD Supervised está aprovado na Chéquia, com rollout &quot;em breve&quot;. Até ao momento, o Ministério dos Transportes checo não confirmou, e nenhum órgão de imprensa checo validou a notícia de forma independente.</p>
+<p>O caso pesa mais porque, em junho de 2026, esse ministério tinha dito preferir esperar por uma avaliação da União Europeia, argumentando que a homologação holandesa da RDW &quot;não é uma aprovação automaticamente válida em toda a União Europeia&quot;. Se confirmada, seria uma reviravolta clara, num padrão parecido com o da Eslovénia, cuja confirmação oficial chegou um dia depois do anúncio da Tesla.</p>
+<h3>Portugal quer testar o FSD antes da votação de 6 de outubro</h3>
+<p>A Iniciativa Liberal apresentou no parlamento uma resolução a pedir ao Governo que promova a autorização para testar em Portugal o FSD da Tesla, já homologado pelo RDW, seguindo o exemplo de França, Bélgica e Dinamarca, e que Portugal apoie a aprovação europeia de 6 de outubro no Comité Técnico de Veículos a Motor.</p>
+<p>O pedido chega numa altura em que Portugal já tem, desde julho de 2026, o seu próprio regime de testes a condução autónoma, com uma licença de 45.000 € por empresa. A Iniciativa Liberal argumenta que reconhecer homologações já aprovadas noutros países da UE evitaria essa duplicação. Para já, <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">o FSD Supervised continua sem data para Portugal</a>.</p>
+<h3>Mais dados de segurança, agora fora da Europa</h3>
+<p>A Tesla divulgou dados de um ano completo de FSD Supervised na Austrália e Nova Zelândia, entre 17 de setembro de 2025 e 16 de setembro de 2026: 160 milhões de km percorridos com o sistema ativo, contra 2,4 mil milhões em condução manual. A taxa de colisões caiu 40%, uma colisão a cada 1,78 milhões de km com o FSD ativo, contra uma a cada 1,07 milhões em condução manual.</p>
+<p>Os números não são europeus, mas juntam-se aos que a Tesla já tinha divulgado para a Bélgica, <a class="ilink" href="https://teslaligado.pt/artigos/fsd-belgica-plano-v15-semi-chega-europa.html">reforçando o dossiê de segurança que a marca está a construir antes da votação de 6 de outubro</a>.</p>
+<h3>O Roadster está cada vez mais perto de ser real</h3>
+<p>A FAA impôs uma restrição de voo temporária sobre as instalações da SpaceX em McGregor, perto de Waco, no Texas, entre 18 de setembro e 2 de outubro: raio de 1,5 milhas náuticas e teto de 10.000 pés. A medida alimenta a expectativa de testes aos propulsores do novo Roadster antes da revelação de 1 de outubro. As reservas reabriram globalmente, com um sinal de 50.000 dólares nos EUA, sem preço nem data para a Europa.</p>
+<h3>O Cybertruck já pode alimentar a tua casa</h3>
+<p>A atualização 2026.27.10 trouxe o Vehicle-to-Home: o Cybertruck partilha a energia da bateria com o Powerwall 3 de casa num corte de eletricidade, estendendo a autonomia em mais de três dias, o equivalente a nove Powerwalls extra. Exige Cybertruck, Powerwall 3 e Wall Connector Universal ou Wall Connector 3; o suporte para Powerwall 2 chega ainda este ano, e o Model Y com adaptador próprio também faz Powershare.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>Nenhuma destas notícias muda hoje o FSD em Portugal, mas a pressão aumenta de vários lados: um país europeu que parecia à espera pode ter mudado de posição da noite para o dia (vale a pena confirmar nos próximos dias antes de a dar como certa), a Iniciativa Liberal juntou-se ao coro que pede à União Europeia luz verde a 6 de outubro, e mais um mercado mostra números favoráveis à segurança do sistema. O Cybertruck não se vende na Europa, por isso o Vehicle-to-Home não chega já a quem tem um Powerwall 3P em Portugal, mas mostra o caminho que a Tesla segue na integração entre carro e casa. Já o Roadster continua a ser conversa de curiosidade, sem preço nem data para cá.</p>]]></content:encoded>
   </item>
   <item>
     <title>Smart Summon maior na Europa, bateria gigante na Bélgica e o Roadster está de volta</title>
