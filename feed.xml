@@ -6,8 +6,31 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 21 Sep 2026 10:19:52 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 06:28:22 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>FSD chega oficialmente à Chéquia e testámos o Model Y de sete lugares em Portugal</title>
+    <link>https://teslaligado.pt/artigos/fsd-chequia-oficial-teste-model-y-sete-lugares.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-chequia-oficial-teste-model-y-sete-lugares.html</guid>
+    <pubDate>Tue, 22 Sep 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Portugal</category>
+    <category>Preços</category>
+    <description>O Ministério dos Transportes checo confirmou oficialmente a aprovação do FSD Supervised, o sétimo país europeu, e um teste real ao Model Y de sete lugares em Portugal revela um consumo de 17,7 kWh/100 km.</description>
+    <content:encoded><![CDATA[<p>A Chéquia tornou-se esta semana o sétimo país europeu a reconhecer o FSD Supervised, mas desta vez a confirmação não veio só da Tesla: foi o próprio Ministério dos Transportes checo a validar, por comunicado oficial. Do outro lado das notícias desta semana, um teste ao Model Y de sete lugares em Portugal trouxe números reais de consumo e autonomia para quem está a pensar nessa versão.</p>
+<h3>A Chéquia confirma, desta vez sem ambiguidade</h3>
+<p>Há dias, a Tesla Europe anunciou nas redes sociais que o FSD Supervised tinha sido aprovado na Chéquia, <a class="ilink" href="https://teslaligado.pt/artigos/chequia-fsd-testes-portugal-roadster-powerwall.html">mas o Ministério dos Transportes checo ainda não tinha confirmado a notícia</a>. Poucas horas depois, o próprio ministério publicou um comunicado a confirmar: reconhece a homologação provisória emitida pelo regulador holandês RDW a 10 de abril de 2026, ao abrigo do Artigo 39 do Regulamento (UE) 2018/858, a mesma base legal usada pelos seis países anteriores.</p>
+<p>A revira volta chama a atenção porque, em junho, esse mesmo ministério tinha dito publicamente que preferia esperar por uma avaliação a nível da União Europeia, argumentando que a homologação holandesa não é uma aprovação automaticamente válida em toda a União Europeia. Com a Chéquia, a lista de países europeus com FSD Supervised aprovado sobe para sete: Países Baixos, Lituânia, Estónia, Dinamarca, Bélgica, Eslovénia e agora Chéquia. A Tesla ainda não anunciou data de rollout para os condutores checos, um padrão que se repetiu em quase todos os países aprovados até agora.</p>
+<p>Para Portugal, que continua <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">sem decisão nacional sobre o FSD Supervised</a>, a confirmação da Chéquia é mais um argumento a favor da isenção que a União Europeia vota a 6 de outubro, e que decidiria a questão para os 27 Estados-membros de uma vez.</p>
+<h3>Testámos o Model Y de sete lugares: 17,7 kWh/100 km em viagem real</h3>
+<p>Enquanto a política do FSD avança devagar, o 4gnews testou em Portugal o Model Y de sete lugares ao longo de 1.820 km, sobretudo em autoestrada e com o carro cheio, uma espécie de teste de férias em família. O consumo médio registado foi de 17,7 kWh/100 km, com ar condicionado ligado e bagagem a bordo, mais alto do que os valores WLTP oficiais mas realista para quem carrega o carro a sério.</p>
+<p>A versão testada, com tração integral e dois motores, custa 57.475 € totalmente equipada em Portugal, <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">dentro da gama de preços do Model Y</a>, faz 0-100 km/h em 4,8 segundos e tem até 622 km de autonomia WLTP. O carregamento em Supercharger chega aos 250 kW de pico, recuperando cerca de 267 km em 15 minutos.</p>
+<p>Quanto às críticas: a terceira fila de bancos é apertada para adultos em viagens longas, pensada sobretudo para crianças, os limpa-para-brisas automáticos revelaram-se pouco fiáveis, e o carro continua sem Apple CarPlay, Android Auto ou Waze nativo. Em compensação, o espaço de bagageira com cinco lugares ocupados é generoso, tanto à frente como atrás, e o conforto e o isolamento acústico saíram elogiados.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>A confirmação oficial da Chéquia é um sinal de que os países europeus estão cada vez mais confortáveis a reconhecer a homologação holandesa sem fazer a sua própria avaliação, o que só reforça as hipóteses da votação de 6 de outubro passar e trazer o FSD Supervised a Portugal de uma vez, sem depender de uma decisão isolada do IMT. Até lá, continua a não haver funcionalidades adicionais para quem subscreve o pacote por cá.</p>
+<p>Já para quem está a decidir entre a versão de cinco e a de sete lugares do Model Y, o teste do 4gnews é um dado útil: os 57.475 € da versão testada ficam bem acima do Model Y de tração traseira mais barato, e a terceira fila só compensa mesmo para quem precisa dela com regularidade, para transportar crianças ou em viagens ocasionais com mais passageiros. Para uso normal em família com bagagem, o consumo real de 17,7 kWh/100 km é o número a ter em conta ao calcular o custo por quilómetro, mais realista do que a ficha técnica.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Mapas 3D nos Superchargers, o Model 3 lidera em Espanha e chega o Powerwall 3P a Portugal</title>
     <link>https://teslaligado.pt/artigos/mapas-superchargers-model-3-espanha-powerwall-portugal.html</link>
