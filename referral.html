@@ -115,6 +115,32 @@ table.hub td.c{font-weight:700;color:#fff;white-space:nowrap}
 .st-nao{background:rgba(227,25,55,.12);color:#ff8fa0}
 .st-esp{background:rgba(224,160,58,.14);color:#E0A03A}
 .hub-note{font-size:.85rem;color:var(--muted)}
+.eumap{margin:2rem 0 0}
+.eumap-grid{display:grid;gap:1.4rem;align-items:start}
+@media(min-width:720px){.eumap-grid{grid-template-columns:minmax(0,1.25fr) minmax(0,1fr)}}
+.eumap-box{position:relative;background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:14px}
+.eumap-svg{display:block;width:100%;height:auto}
+.eumap-svg .cty{fill:#262b33;stroke:#0f1114;stroke-width:1.6;stroke-linejoin:round;transition:fill .12s,filter .12s;outline:none}
+.eumap-svg .cty.out{fill:#1b1f25}
+.eumap-svg .cty.ok{fill:#35a06a}
+.eumap-svg .cty.wait{fill:#4d3a1b}
+.eumap-svg .cty.no{fill:#9c2231}
+.eumap-svg .cty:hover,.eumap-svg .cty.on{filter:brightness(1.45);stroke:#fff;stroke-width:2}
+.eumap-svg .cty:focus-visible{stroke:#fff;stroke-width:2.4}
+.eumap-tip{position:absolute;z-index:5;pointer-events:none;background:#0b0d10;border:1px solid var(--border);border-radius:10px;padding:.55rem .75rem;font-size:.82rem;line-height:1.45;color:var(--soft);box-shadow:0 8px 24px rgba(0,0,0,.5);max-width:15rem}
+.eumap-tip b{display:block;color:#fff;font-size:.9rem;margin-bottom:2px}
+.eumap-tip span{display:block}
+.eumap-side{display:flex;flex-direction:column;gap:1rem}
+.eumap-stat{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1rem 1.1rem}
+.eumap-stat b{display:block;font-size:1.9rem;font-weight:800;letter-spacing:-.02em;color:#fff;line-height:1.05}
+.eumap-stat span{display:block;margin-top:.3rem;font-size:.84rem;color:var(--muted);line-height:1.5}
+.eumap-legend{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:.45rem .9rem;font-size:.82rem;color:var(--soft)}
+.eumap-legend li{display:flex;align-items:center;gap:.45rem}
+.eumap-legend i{width:12px;height:12px;border-radius:3px;flex:0 0 auto}
+.eumap-legend i.ok{background:#35a06a}.eumap-legend i.wait{background:#4d3a1b}
+.eumap-legend i.no{background:#9c2231}.eumap-legend i.out{background:#1b1f25;border:1px solid var(--border)}
+.eumap-hint{font-size:.8rem;color:var(--muted);margin:0}
+.eumap figcaption{margin-top:.9rem;font-size:.78rem;color:var(--muted);line-height:1.6}
 table.hub td strong.c2{color:#fff;font-weight:700;white-space:nowrap}
 .hub-src{margin-top:2.2rem}
 .hub-src ul{list-style:none;padding:0;margin:.7rem 0 0;display:flex;flex-direction:column;gap:.5rem}
