@@ -6,8 +6,30 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 22 Sep 2026 06:50:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 06:32:22 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>FSD já circula em Praga, a França testa antes de votar e chega o Grok ao Tesla</title>
+    <link>https://teslaligado.pt/artigos/fsd-praga-franca-testes-grok-tesla.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-praga-franca-testes-grok-tesla.html</guid>
+    <pubDate>Wed, 23 Sep 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Software</category>
+    <category>Portugal</category>
+    <description>Condutores em Praga já usam o FSD Supervised dias depois da aprovação na Chéquia, a França decidiu testar o sistema com carros próprios antes da votação de 6 de outubro, e chegou aos Tesla o assistente Grok Bot.</description>
+    <content:encoded><![CDATA[<p>Esta semana confirmou que o FSD Supervised não fica só no papel depois de aprovado: em Praga, os primeiros condutores já andam com o sistema ligado em estrada pública. Do outro lado, a França decidiu não confiar apenas na homologação holandesa e está a testar o FSD com os seus próprios carros, com resultados esperados mesmo em cima da votação europeia de 6 de outubro. E no ecrã central dos Tesla começou a aparecer uma novidade que não tem nada a ver com condução: o Grok Bot.</p>
+<h3>FSD já anda a circular em Praga, dias depois da aprovação</h3>
+<p>A atualização 2026.27.300, com o FSD Supervised na versão v14.2.2.6, começou a chegar aos carros checos já no dia 21 de setembro, a mesma data em que o Ministério dos Transportes confirmou oficialmente <a class="ilink" href="https://teslaligado.pt/artigos/fsd-chequia-oficial-teste-model-y-sete-lugares.html">a aprovação do sistema na Chéquia</a>. Segundo o site Basenor, condutores em Praga já estavam a usar o FSD em estrada pública poucas horas depois da confirmação, sem esperar semanas como aconteceu noutros países aprovados este ano. É a terceira vaga de distribuição desta atualização, que arrancou a meados de setembro, e não traz funcionalidades novas: é sobretudo uma versão de estabilidade e correção de erros. A subscrição continua nos 99 € por mês, ou 49 € por mês para quem já tinha o Enhanced Autopilot.</p>
+<h3>A França testa com carros próprios, e a votação de 6 de outubro pode escorregar para dezembro</h3>
+<p>Ao contrário dos sete países que já reconheceram a homologação holandesa sem repetir os testes, a França escolheu outro caminho: está a fazer a sua própria verificação independente, com dois carros equipados com FSD cedidos pela Tesla ao governo francês. Os primeiros resultados são esperados ainda nesta segunda quinzena de setembro, mesmo em cima da votação de 6 de outubro no comité técnico europeu.</p>
+<p>O detalhe que interessa a quem espera pelo FSD em Portugal é este: se a posição francesa não estiver definida a tempo, a votação pode ser adiada para início de dezembro. O ministro dos Transportes, Philippe Tabarot, tinha dito em julho que o sistema &quot;não era suficientemente seguro&quot;, mas falou de uma troca &quot;construtiva&quot; com Elon Musk a 2 de setembro, o que já é uma mudança de tom clara em relação a há dois meses. <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">O calendário completo país a país está no nosso guia do FSD</a>.</p>
+<h3>O Grok chega ao ecrã do teu Tesla</h3>
+<p>Longe da política, a Tesla começou a distribuir o Grok Bot, um assistente de inteligência artificial que já não se limita a comandos simples de voz: segundo testes do Basenor, controla 116 dos 170 comandos testados no carro, desde o clima e os bancos até à abertura do porta-luvas. Os chamados &quot;Connectors&quot; ligam o Grok a serviços externos como DoorDash, Uber Eats e OpenTable, para tarefas que antes exigiam o telemóvel.</p>
+<p>Para já, o acesso está limitado aos subscritores SuperGrok Heavy, sem data confirmada para chegar a outros níveis. Também exige processador de infoentretenimento AMD, software 2025.26 ou mais recente e <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">Conetividade Premium</a>, disponível em Model 3, Model Y, Cybertruck e alguns Model S e Model X.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>A Chéquia mostra como pode ser rápido o caminho entre aprovação e estrada: se Portugal seguir o mesmo padrão dos outros sete países, a distância entre uma eventual luz verde e o FSD a funcionar no teu carro pode ser de dias, não de meses. Mas a França é o verdadeiro fator de incerteza antes de 6 de outubro: se os testes não derem resultado a tempo, o adiamento para dezembro empurra tudo, incluindo Portugal, para o fim do ano. Vale a pena seguir esta história de perto nos próximos quinze dias. Quanto ao Grok, é sobretudo uma curiosidade por agora: exige uma subscrição adicional que ainda não tem data para sair do nível mais caro, por isso não é motivo para mudar planos de compra ou de subscrição de Conetividade Premium.</p>]]></content:encoded>
+  </item>
   <item>
     <title>FSD chega oficialmente à Chéquia e teste do Model Y de sete lugares em Portugal</title>
     <link>https://teslaligado.pt/artigos/fsd-chequia-oficial-teste-model-y-sete-lugares.html</link>
