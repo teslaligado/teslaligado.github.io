@@ -150,6 +150,19 @@ table.hub td.c{font-weight:700;color:#fff;white-space:nowrap}
 .eumap-legend i.no{background:#9c2231}.eumap-legend i.out{background:#1b1f25;border:1px solid var(--border)}
 .eumap-hint{font-size:.8rem;color:var(--muted);margin:0}
 .eumap figcaption{margin-top:.9rem;font-size:.78rem;color:var(--muted);line-height:1.6}
+.ptmap-svg{width:100%;max-width:290px;height:auto;margin:0 auto}
+.ptmap .eumap-box{display:flex;flex-direction:column;justify-content:center}
+.eumap-svg .land{fill:#262b33;stroke:#0f1114;stroke-width:1.5;stroke-linejoin:round}
+.eumap-svg g.cty{outline:none;cursor:pointer}
+.eumap-svg g.cty .hit{fill:transparent}
+.eumap-svg g.cty .dot{stroke:#0f1114;stroke-width:2;transition:filter .12s}
+.eumap-svg g.cty.ok .dot{fill:#3FBF7A}
+.eumap-svg g.cty.work .dot{fill:#E0A03A}
+.eumap-svg g.cty.soon .dot{fill:#181b20;stroke:#E0A03A;stroke-width:3}
+.eumap-svg g.cty:hover .dot,.eumap-svg g.cty.on .dot{filter:brightness(1.3);stroke:#fff;stroke-width:3}
+.eumap-svg g.cty:focus-visible .dot{stroke:#fff;stroke-width:3}
+.eumap-legend i.work{background:#E0A03A}
+.eumap-legend i.soon{background:#181b20;border:2px solid #E0A03A}
 table.hub td strong.c2{color:#fff;font-weight:700;white-space:nowrap}
 .hub-src{margin-top:2.2rem}
 .hub-src ul{list-style:none;padding:0;margin:.7rem 0 0;display:flex;flex-direction:column;gap:.5rem}
@@ -210,7 +223,7 @@ table.hub td strong.c2{color:#fff;font-weight:700;white-space:nowrap}
     if(pin===c){hide();return;}pin=c;var m=mid(c);show(c,m[0],m[1]);});
   w.addEventListener('focusin',function(e){var c=at(e);if(c&&pin!==c){var m=mid(c);show(c,m[0],m[1]);}});
   document.addEventListener('click',function(e){if(!w.contains(e.target))hide();});
-  document.addEventListener('keydown',function(e){if(e.key==='Escape')hide();});})();</script>
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')hide();});})();</script></script>
     <div class="tbl-wrap"><table class="hub">
     <thead><tr><th>País</th><th>FSD Supervised</th><th>Desde</th><th>Notas</th></tr></thead>
     <tbody><tr><td class="c">Países Baixos</td><td><span class="st st-sim">Aprovado</span></td><td>abril 2026</td><td class="hub-note">Homologação provisória do RDW ao abrigo do Regulamento ONU 171. É a base que os outros países reconhecem.</td></tr><tr><td class="c">Lituânia</td><td><span class="st st-sim">Aprovado</span></td><td>maio 2026</td><td class="hub-note"></td></tr><tr><td class="c">Estónia</td><td><span class="st st-sim">Aprovado</span></td><td>maio 2026</td><td class="hub-note"></td></tr><tr><td class="c">Dinamarca</td><td><span class="st st-sim">Aprovado</span></td><td>junho 2026</td><td class="hub-note"></td></tr><tr><td class="c">Bélgica</td><td><span class="st st-sim">Aprovado</span></td><td>junho 2026</td><td class="hub-note">Primeiros dados de utilização divulgados pela Tesla em setembro: 24,6 milhões de km com o sistema ativo.</td></tr><tr><td class="c">Eslovénia</td><td><span class="st st-sim">Aprovado</span></td><td>setembro 2026</td><td class="hub-note">Anunciado a 7 de setembro; rollout sem data pública.</td></tr><tr><td class="c">Chéquia</td><td><span class="st st-sim">Aprovado</span></td><td>setembro 2026</td><td class="hub-note">Confirmado por comunicado oficial do Ministério dos Transportes checo a 21 de setembro, que reconheceu a homologação provisória do RDW. Em junho, o mesmo ministério tinha dito que preferia esperar por uma avaliação europeia. O rollout começou já no dia da aprovação, com condutores em Praga a usar o sistema horas depois.</td></tr><tr><td class="c">Portugal</td><td><span class="st st-nao">Não aprovado</span></td><td>—</td><td class="hub-note">Sem decisão nacional conhecida sobre o FSD Supervised. Portugal tem, desde julho de 2026, um regime próprio de testes a condução autónoma (licença de 45.000 € por empresa). Em setembro, a Iniciativa Liberal pediu ao Governo que reconheça a homologação da RDW e apoie a aprovação europeia de 6 de outubro. A 23 de setembro, o Governo anunciou que Portugal vai também aderir a uma rede europeia de testes de condução autónoma, alargando a 21 o número de países signatários; o IMT diz já ter recebido vários pedidos de reunião prévia, mas nenhum pedido formal de licença.</td></tr><tr><td class="c">Suécia</td><td><span class="st st-esp">À espera</span></td><td>—</td><td class="hub-note">Oposição formal enquanto o Speed Offset permitir exceder o limite de velocidade.</td></tr><tr><td class="c">França</td><td><span class="st st-esp">À espera</span></td><td>—</td><td class="hub-note">Não reconheceu a homologação holandesa: está a testar o FSD com dois carros próprios cedidos pela Tesla, com resultados esperados na segunda quinzena de setembro de 2026. Se a posição não ficar definida a tempo, a votação de 6 de outubro pode ser adiada para dezembro.</td></tr><tr><td class="c">Restantes países da UE</td><td><span class="st st-esp">À espera</span></td><td>—</td><td class="hub-note">Dependem do reconhecimento nacional da homologação holandesa ou da isenção europeia.</td></tr></tbody>

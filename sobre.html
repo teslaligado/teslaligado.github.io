@@ -150,6 +150,19 @@ table.hub td.c{font-weight:700;color:#fff;white-space:nowrap}
 .eumap-legend i.no{background:#9c2231}.eumap-legend i.out{background:#1b1f25;border:1px solid var(--border)}
 .eumap-hint{font-size:.8rem;color:var(--muted);margin:0}
 .eumap figcaption{margin-top:.9rem;font-size:.78rem;color:var(--muted);line-height:1.6}
+.ptmap-svg{width:100%;max-width:290px;height:auto;margin:0 auto}
+.ptmap .eumap-box{display:flex;flex-direction:column;justify-content:center}
+.eumap-svg .land{fill:#262b33;stroke:#0f1114;stroke-width:1.5;stroke-linejoin:round}
+.eumap-svg g.cty{outline:none;cursor:pointer}
+.eumap-svg g.cty .hit{fill:transparent}
+.eumap-svg g.cty .dot{stroke:#0f1114;stroke-width:2;transition:filter .12s}
+.eumap-svg g.cty.ok .dot{fill:#3FBF7A}
+.eumap-svg g.cty.work .dot{fill:#E0A03A}
+.eumap-svg g.cty.soon .dot{fill:#181b20;stroke:#E0A03A;stroke-width:3}
+.eumap-svg g.cty:hover .dot,.eumap-svg g.cty.on .dot{filter:brightness(1.3);stroke:#fff;stroke-width:3}
+.eumap-svg g.cty:focus-visible .dot{stroke:#fff;stroke-width:3}
+.eumap-legend i.work{background:#E0A03A}
+.eumap-legend i.soon{background:#181b20;border:2px solid #E0A03A}
 table.hub td strong.c2{color:#fff;font-weight:700;white-space:nowrap}
 .hub-src{margin-top:2.2rem}
 .hub-src ul{list-style:none;padding:0;margin:.7rem 0 0;display:flex;flex-direction:column;gap:.5rem}
