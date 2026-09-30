@@ -6,8 +6,29 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 28 Sep 2026 13:08:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 07:00:21 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>FSD Supervised chega à Croácia, o oitavo país europeu, com a frota a somar 15 mil milhões de milhas</title>
+    <link>https://teslaligado.pt/artigos/fsd-croacia-oitavo-pais-15-mil-milhoes-milhas.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-croacia-oitavo-pais-15-mil-milhoes-milhas.html</guid>
+    <pubDate>Wed, 30 Sep 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Portugal</category>
+    <description>A Tesla anuncia a Croácia como o oitavo país europeu a aprovar o FSD Supervised, ainda sem confirmação oficial, no mesmo dia em que a frota mundial ultrapassa os 15 mil milhões de milhas percorridas com o sistema ativo.</description>
+    <content:encoded><![CDATA[<p>A Tesla juntou esta semana mais um país à lista do FSD Supervised na Europa. A conta europeia da marca anunciou a 29 de setembro que o sistema foi aprovado na Croácia, o que seria o oitavo país do continente a reconhecer a homologação provisória do regulador holandês RDW, três semanas depois da Eslovénia e da Chéquia. No mesmo dia, a Tesla revelou que a sua frota mundial já ultrapassou os 15 mil milhões de milhas percorridas com o FSD ativo, um número que a marca vai usar como argumento de segurança antes da próxima oportunidade de voto na União Europeia, só em dezembro. Chegou ainda uma patente curiosa, com ventoinhas escondidas que podem equipar o novo Roadster.</p>
+<h3>Croácia junta-se à lista, mas ainda sem confirmação oficial</h3>
+<p>O padrão repete-se: a Tesla anuncia, e o país demora dias a confirmar. Foi assim com a Eslovénia em setembro e com a Chéquia, cujo Ministério dos Transportes só validou o anúncio da Tesla um dia depois. Com a Croácia é igual: até à data desta atualização, nenhum órgão oficial croata confirmou de forma independente a aprovação, apesar de a Tesla já falar em rollout &quot;em breve&quot;. Se confirmada, a fase inicial fica limitada a carros com o computador Hardware 4 (AI4); quem tem Hardware 3 deve esperar por uma versão mais leve do FSD v14.</p>
+<p>Para quem segue <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">a situação do FSD em Portugal</a>, a Croácia não muda a conta que interessa: mesmo somando os sete países já confirmados oficialmente, a população coberta continua muito longe do limiar de 65% que a União Europeia exige para uma isenção que abranja todo o bloco, Portugal incluído.</p>
+<h3>15 mil milhões de milhas, mais um número para o dossiê de segurança</h3>
+<p>Longe da política, a Tesla divulgou também a 29 de setembro que a sua frota mundial ultrapassou os 15 mil milhões de milhas percorridas com o FSD Supervised ativo, cerca de 24,1 mil milhões de quilómetros, dos quais 5,8 mil milhões de milhas em ruas urbanas. O ritmo acelerou muito este ano: a frota demorou até ao final de 2025 para chegar aos 7 mil milhões de milhas e levou menos de nove meses a quase duplicar esse valor, somando agora cerca de 41,7 milhões de milhas por dia.</p>
+<p>Os números são globais e não têm desagregação por país europeu, mas juntam-se ao mesmo tipo de argumento que a Tesla já tinha usado com os dados da Bélgica e da Austrália: quanto mais quilómetros percorridos sem incidentes, mais forte fica o caso a apresentar antes de <a class="ilink" href="https://teslaligado.pt/artigos/fsd-votacao-adiada-dezembro-gruenheide-model-y.html">a votação europeia, adiada para dezembro</a>.</p>
+<h3>Uma patente aponta para ventoinhas escondidas no Roadster</h3>
+<p>Do lado mais especulativo, uma patente da Tesla publicada nos Estados Unidos a 29 de setembro descreve um sistema com quatro ventoinhas elétricas escondidas num difusor traseiro, capazes de gerar força descendente (downforce) independente da velocidade do carro, alimentadas pela bateria principal de alta tensão. Os desenhos mostram um Model S, modelo já descontinuado, mas o mais provável é que a tecnologia se destine ao novo Roadster, cuja demonstração está marcada para 15 de outubro. Como em qualquer patente, não há garantia de que a tecnologia chegue mesmo a produção: a Tesla regista muitas ideias que nunca saem do papel.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>Nenhuma destas notícias muda o que se pode fazer com um Tesla em Portugal hoje. Mesmo que a Croácia venha a ser confirmada como o oitavo país, o caminho país a país continua a avançar devagar de mais para mudar o calendário nacional, e a verdadeira data a vigiar continua a ser dezembro, quando o comité técnico da UE volta a reunir-se. Os 15 mil milhões de milhas são um bom indicador de que a Tesla não está a acumular dados por acaso: está a construir o dossiê que vai levar a essa reunião, para o caso de a discussão avançar desta vez. Quanto à patente do Roadster, é sobretudo uma curiosidade a acompanhar antes de 15 de outubro, sem qualquer efeito em quem conduz um Tesla por cá.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Votação do FSD na Europa adiada para dezembro, e Berlim acelera a produção do Model Y</title>
     <link>https://teslaligado.pt/artigos/fsd-votacao-adiada-dezembro-gruenheide-model-y.html</link>
