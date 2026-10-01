@@ -6,8 +6,28 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 30 Sep 2026 07:00:21 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 07:38:17 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Croácia confirma o FSD, a Alemanha detalha as suas reservas e chega a atualização 2026.38</title>
+    <link>https://teslaligado.pt/artigos/croacia-confirma-fsd-alemanha-reservas-atualizacao-202638.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/croacia-confirma-fsd-alemanha-reservas-atualizacao-202638.html</guid>
+    <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Software</category>
+    <category>Portugal</category>
+    <description>A Croácia confirma oficialmente a aprovação do FSD Supervised, o oitavo país europeu, a Alemanha detalha pela primeira vez as suas reservas antes da votação de dezembro na UE, e chega a atualização 2026.38 com faróis mais inteligentes.</description>
+    <content:encoded><![CDATA[<p>Esta semana fechou com duas peças importantes do puzzle do FSD Supervised na Europa a encaixarem, e com uma atualização de software mais modesta mas útil no dia a dia. A Croácia tornou-se o oitavo país europeu a confirmar oficialmente a aprovação do sistema, a Alemanha veio finalmente a público explicar porque ainda não deu o seu aval, e chegou aos carros a atualização 2026.38, com faróis mais inteligentes e um ecrã central renovado.</p>
+<h3>Croácia confirma, desta vez por via oficial</h3>
+<p>Depois de a Tesla ter anunciado, a 29 de setembro, que o FSD Supervised estava aprovado na Croácia, foi a vez do Instituto Estatal de Metrologia croata (DZM), o organismo responsável pela homologação de veículos no país, confirmar oficialmente, a 28 de setembro, que reconhece a homologação provisória emitida pelo regulador holandês RDW em abril, ao abrigo do Artigo 39 do Regulamento (UE) 2018/858. É o mesmo padrão já visto na Eslovénia e na Chéquia: primeiro o anúncio da Tesla, a confirmação oficial do país chega pouco depois. A Croácia junta-se assim, de forma oficial, à lista de países que já reconhecem <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">a homologação holandesa</a>, embora a Tesla continue sem anunciar uma data de rollout.</p>
+<h3>A Alemanha explica, finalmente, as suas reservas</h3>
+<p>Até agora, sabia-se apenas que a Alemanha não tinha reconhecido a homologação holandesa. Esta semana, o Ministério Federal dos Transportes alemão (BMDV) veio detalhar a sua posição: diz manter uma abordagem aberta à tecnologia e orientada para a segurança, com o regulador KBA a consultar diretamente a RDW e a Tesla sobre os dados técnicos antes de decidir o voto alemão. As preocupações concretas são três: a função Speed Offset, que pode deixar o carro exceder o limite de velocidade em até 50% em certas condições, o comportamento do sistema em ruas urbanas densas, e a confirmação de que a responsabilidade continua a ser do condutor, já que o FSD Supervised é, e continua a ser, um sistema de nível 2. A votação decisiva no comité técnico da UE, que tinha saído da agenda de 6 de outubro, está agora formalmente confirmada para dezembro, a mesma data já esperada, mas agora com mais clareza sobre o que falta resolver.</p>
+<h3>Atualização 2026.38: faróis mais espertos e um ecrã mais bonito</h3>
+<p>A atualização 2026.27.38, ou 2026.38, começou a chegar a 30 de setembro, por agora a um ritmo lento: só 63 carros, cerca de 0,5% da frota, já a receberam. As novidades mais visíveis são um ecrã central com imagens de maior qualidade do carro e um ambiente de estacionamento mais detalhado, disponível em todo o mundo para computadores AMD nos Model 3 e Model Y, e o nivelamento automático dos faróis de baixo feixe, que ajusta a inclinação consoante a condução e o trânsito para reduzir o encadeamento de quem vem em sentido contrário, sobretudo no Model 3. Os <a class="ilink" href="https://teslaligado.pt/superchargers-portugal.html">mapas detalhados dos Superchargers</a>, lançados há duas semanas só para carros com computador Intel, passam agora a abranger mais modelos com esse mesmo processador, incluindo Model S e Model X mais antigos. Há ainda correções de segurança para toda a gama.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>Nenhuma destas notícias muda o FSD em Portugal amanhã de manhã, mas a confirmação oficial da Croácia reforça o padrão que já se via noutros países: quando chega, a confirmação quase sempre segue o anúncio da Tesla em poucos dias. Mais interessante é a Alemanha pôr finalmente as suas objeções em cima da mesa: saber exatamente o que preocupa um dos três países grandes que faltam, a par de Itália e Espanha, é mais útil do que um simples não sem explicação, e dá uma ideia mais clara do que vai pesar na votação de dezembro. Entretanto, a 2026.38 é uma atualização menor, mas os faróis adaptativos são o tipo de detalhe que se nota todos os dias ao volante, e a expansão dos mapas de Supercharger a mais carros com processador Intel é boa notícia para quem conduz um Model S ou X mais antigo e também usa a rede portuguesa.</p>]]></content:encoded>
+  </item>
   <item>
     <title>FSD Supervised chega à Croácia, o oitavo país europeu, com a frota a somar 15 mil milhões de milhas</title>
     <link>https://teslaligado.pt/artigos/fsd-croacia-oitavo-pais-15-mil-milhoes-milhas.html</link>
