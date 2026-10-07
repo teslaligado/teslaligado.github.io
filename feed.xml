@@ -6,8 +6,29 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 01 Oct 2026 07:38:17 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 09:01:49 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Alemanha fecha acordo com a Tesla sobre o FSD, e chega a Energia de Chegada à app</title>
+    <link>https://teslaligado.pt/artigos/alemanha-acordo-tesla-fsd-energia-chegada-app.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/alemanha-acordo-tesla-fsd-energia-chegada-app.html</guid>
+    <pubDate>Wed, 07 Oct 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Software</category>
+    <category>Portugal</category>
+    <description>A Alemanha aceita apoiar a aprovação europeia do FSD se a Tesla limitar o excesso de velocidade a 10% e mudar o nome do sistema, a tempo da votação de dezembro. Chega também à app a função Energia de Chegada, que recalcula a rota para a bateria que escolheres.</description>
+    <content:encoded><![CDATA[<p>A Alemanha deu esta semana o passo mais concreto até agora para desbloquear o FSD Supervised na Europa. O ministério federal dos Transportes chegou a acordo com a Tesla em setembro: o sistema passa a ficar limitado a um excesso de velocidade máximo de 10%, bem abaixo dos até 50% que preocupavam Berlim, e muda de nome na Europa, de Full Self-Driving para Tesla Assisted Driving. Em troca, a Alemanha vai apoiar a aprovação a nível europeu na próxima oportunidade de voto, em dezembro. Chegou também à aplicação da Tesla uma função discreta mas útil para quem faz viagens longas: a Energia de Chegada, que deixa escolher com quanta bateria queres chegar ao destino e deixa o planeador tratar do resto.</p>
+<h3>Um acordo com três peças</h3>
+<p>O ministro dos Transportes alemão, Steffen Bilger, liderou as negociações que resultaram em três pontos concretos. Primeiro, o limite de velocidade: o FSD passa a poder exceder o sinalizado por, no máximo, 10%, contra até 50% em certas condições hoje, a principal preocupação que a Alemanha tinha identificado em setembro, a par do comportamento em ruas urbanas e da responsabilidade do condutor. Segundo, o nome: a Tesla aceitou mudar a designação do sistema na Europa para Tesla Assisted Driving, depois de o ministério considerar que Full Self-Driving era uma designação enganadora para um sistema que continua a ser de nível 2. Terceiro, a responsabilidade: fica confirmado que o condutor continua 100% responsável pela condução segura, sem alterações ao que já estava definido.</p>
+<p>Nenhum destes pontos equivale a uma aprovação nacional alemã do <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">FSD Supervised</a>: a Alemanha continua, por agora, sem reconhecer a homologação holandesa que já vale para oito países europeus. O que muda é o voto alemão na votação a nível de toda a União Europeia, que precisa do apoio de pelo menos 15 países representando 65% da população do bloco. Com a Alemanha a pesar cerca de 18,6% desse total, a adesão de Berlim aproxima bastante a conta das metas exigidas, embora a Itália e a Espanha continuem sem posição conhecida.</p>
+<h3>A reunião de 6 de outubro confirmou o que já se sabia</h3>
+<p>A reunião do comité técnico de veículos a motor da União Europeia, em Bruxelas, aconteceu ontem como estava marcada, mas sem qualquer votação: foram só 25 minutos de continuação das discussões sobre o pedido holandês, confirmando o adiamento para dezembro que já tinha sido assinalado há duas semanas. O acordo alemão é, por isso, mais uma peça para essa data, não uma mudança imediata.</p>
+<h3>Energia de Chegada: escolhes a bateria, o carro faz o resto</h3>
+<p>Longe da política, chegou à app da Tesla a função Energia de Chegada: um cursor entre 35% e 95% onde escolhes a bateria com que queres chegar ao destino, e o planeador de viagem recalcula a rota toda a partir disso, incluindo que <a class="ilink" href="https://teslaligado.pt/superchargers-portugal.html">Superchargers</a> usar e quanto tempo carregar em cada um. A função já existia no ecrã do carro desde a atualização 2024.44, em dezembro de 2024, mas só chegou à aplicação no Summer Update, em setembro, com a versão 2026.38.3 a alargá-la agora. Não há qualquer restrição geográfica mencionada, por isso deve funcionar da mesma forma em Portugal.</p>
+<h3>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h3>
+<p>Nada disto aprova o FSD Supervised em Portugal esta semana, mas o acordo alemão é provavelmente o desenvolvimento mais importante desde o adiamento da votação para dezembro: um dos países grandes que faltavam já tem um caminho claro para votar a favor, com condições que resolvem exatamente as objeeções que tinha levantado. Vale a pena seguir se a Itália e a Espanha fazem movimentos semelhantes nas próximas semanas, porque são elas que decidem se a conta dos 65% fecha a tempo de dezembro. Quanto à Energia de Chegada, essa já está disponível hoje: se costumas fazer viagens longas, o próximo carregamento num Supercharger português é uma boa altura para experimentar o cursor e deixar o planeador decidir por ti.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Croácia confirma o FSD, a Alemanha detalha as suas reservas e chega a atualização 2026.38</title>
     <link>https://teslaligado.pt/artigos/croacia-confirma-fsd-alemanha-reservas-atualizacao-202638.html</link>
