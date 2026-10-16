@@ -4,6 +4,10 @@
 # A chave vive em https://teslaligado.pt/<chave>.txt, gerada pelo próprio site
 # a partir do campo indexNowKey das Definições do painel. Não é um segredo:
 # a especificação do IndexNow exige que seja pública nesse endereço.
+#
+# Dois modos:
+#   push  → submete só as páginas alteradas nesse push.
+#   manual (Actions → IndexNow → Run workflow) → submete o sitemap inteiro.
 
 name: IndexNow
 
@@ -18,44 +22,53 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
-      - name: Reunir as páginas alteradas
+      - name: Reunir as URLs a submeter
         id: lista
+        env:
+          BEFORE: ${{ github.event.before }}
+          EVENTO: ${{ github.event_name }}
         run: |
           python3 - <<'PY'
-          import json, os, subprocess
+          import json, os, re, subprocess
 
           HOST = "teslaligado.pt"
           KEY  = "65e99f72d37e01855d508c7d987b4a37"
 
-          before = os.environ.get("GITHUB_EVENT_BEFORE", "")
-          rng = ["HEAD~1", "HEAD"]
-          if before and not before.startswith("0000000"):
-              rng = [before, "HEAD"]
-          try:
-              out = subprocess.check_output(
-                  ["git", "diff", "--name-only", "--diff-filter=d", rng[0], rng[1]],
-                  text=True)
-          except subprocess.CalledProcessError:
-              out = subprocess.check_output(["git", "ls-files"], text=True)
+          def url_de(f):
+              return "https://%s/%s" % (HOST, "" if f == "index.html" else f)
 
-          urls = []
-          for f in out.split():
-              if not f.endswith(".html"):
-                  continue
-              path = "" if f == "index.html" else f
-              urls.append("https://%s/%s" % (HOST, path))
+          urls, origem = [], ""
+
+          if os.environ.get("EVENTO") == "workflow_dispatch":
+              origem = "sitemap completo"
+              try:
+                  urls = re.findall(r"<loc>([^<]+)</loc>", open("sitemap.xml").read())
+              except OSError:
+                  urls = []
+          else:
+              origem = "páginas alteradas neste push"
+              antes = os.environ.get("BEFORE", "")
+              base = antes if antes and not antes.startswith("0000000") else "HEAD~1"
+              try:
+                  mudadas = subprocess.check_output(
+                      ["git", "diff", "--name-only", "--diff-filter=d", base, "HEAD"],
+                      text=True).split()
+              except subprocess.CalledProcessError:
+                  mudadas = subprocess.check_output(["git", "ls-files"], text=True).split()
+              urls = [url_de(f) for f in mudadas if f.endswith(".html")]
+
           urls = sorted(set(urls))[:100]
 
-          payload = {
+          json.dump({
               "host": HOST,
               "key": KEY,
               "keyLocation": "https://%s/%s.txt" % (HOST, KEY),
               "urlList": urls,
-          }
-          json.dump(payload, open("indexnow.json", "w"))
-          print("%d páginas alteradas" % len(urls))
+          }, open("indexnow.json", "w"))
+
+          print("%s: %d URLs" % (origem, len(urls)))
           for u in urls:
               print("  " + u)
           with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
@@ -73,3 +86,7 @@ jobs:
           cat resposta.txt || true
           # 200 = aceite, 202 = aceite e a validar a chave. Outro valor falha o passo.
           case "$code" in 200|202) exit 0 ;; *) exit 1 ;; esac
+
+      - name: Nada a submeter
+        if: steps.lista.outputs.n == '0'
+        run: echo "Nenhuma página HTML mudou neste push. Nada enviado."
