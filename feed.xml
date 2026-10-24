@@ -6,8 +6,29 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 22 Oct 2026 09:52:58 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 10:12:04 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Giga Berlim bate recorde de produção, e o Robotaxi pode ganhar carros de donos</title>
+    <link>https://teslaligado.pt/artigos/giga-berlim-recorde-producao-robotaxi-donos.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/giga-berlim-recorde-producao-robotaxi-donos.html</guid>
+    <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Portugal</category>
+    <category>Vendas</category>
+    <description>A fábrica de Grünheide atingiu 7.000 Model Y numa semana, o novo máximo da fábrica Tesla na Europa, com uma segunda unidade já em preparação. Nos EUA, código da app do Robotaxi sugere que donos vão poder juntar os seus carros à frota a partir de 2027.</description>
+    <content:encoded><![CDATA[<p>A fábrica de Grünheide, perto de Berlim, construiu 7.000 Model Y numa única semana, o novo máximo da única fábrica de veículos que a Tesla tem na Europa, anunciado pela própria marca a 23 de outubro. Do outro lado do Atlântico, código encontrado na app do Robotaxi sugere que a Tesla está a preparar um programa para donos juntarem os seus próprios carros à frota, ainda sem confirmação oficial nem data certa.</p>
+<h2>Giga Berlim bate recorde, e já há plano para uma segunda fábrica</h2>
+<p>A Tesla anunciou a 23 de outubro, pela conta Tesla Manufacturing no X, que a fábrica de Grünheide atingiu 7.000 unidades do Model Y numa única semana, um novo máximo depois dos 6.000 por semana alcançados no início de 2024 e dos 4.000 de fevereiro de 2023. É cerca de 50% mais do que a média de aproximadamente 4.700 por semana registada no primeiro trimestre de 2026, quando a fábrica produziu pouco mais de 61.000 veículos. Anualizado, o ritmo de 7.000 por semana equivale a cerca de 364.000 carros por ano, embora a Tesla não tenha dito quanto tempo pretende manter este nível.</p>
+<p>O recorde confirma a <a class="ilink" href="https://teslaligado.pt/artigos/giga-berlim-expansao-fsd-nome-manuais-portugueses.html">subida de produção que já estava em curso desde meados de outubro</a>, depois de a fábrica ter passado os 750.000 veículos construídos em maio e de a Tesla ter anunciado então um reforço de 20% na capacidade, com mais contratações e turnos extra. Segundo a consultora Dataforce, o Model Y foi o elétrico mais vendido na Europa entre janeiro e julho de 2026, com 115.957 matrículas, mais 55% do que no mesmo período de 2025, o que ajuda a explicar a pressão para produzir mais. Para já, a Tesla continua a preparar uma segunda fábrica em Grünheide, com mais do dobro do espaço da atual, segundo a rádio alemã rbb: o pedido parcial de licenciamento é esperado em dezembro, e a construção só deve arrancar em 2027 na melhor das hipóteses.</p>
+<h2>Donos podem vir a juntar o próprio carro à frota do Robotaxi, mas só nos EUA</h2>
+<p>Uma análise ao código da versão 26.10.0 da app do Robotaxi, feita pela conta @tesla_app_ios no X, encontrou funções que permitem a um dono inscrever o seu próprio carro na frota, identificado pelo número de chassis, com um estado que acompanha cada veículo por fases como &quot;em revisão&quot;, &quot;ativo&quot;, &quot;em viagem&quot; ou &quot;retirado&quot;. Na chamada de resultados do terceiro trimestre, a 21 de outubro, a Tesla disse esperar que os primeiros carros de clientes possam juntar-se à frota por volta do segundo trimestre de 2027, e Ashok Elluswamy, vice-presidente de software de inteligência artificial da marca, resumiu o que falta: integrar os carros dos clientes nas zonas geográficas e na gestão de frota que a Tesla já usa nos seus próprios carros sem condutor.</p>
+<p>Não há, para já, qualquer confirmação oficial da Tesla, nem informação sobre os critérios para um carro poder entrar no programa, a divisão das receitas ou quem responde em caso de acidente. Os únicos sítios nomeados no código são norte-americanos, de Austin à área da baía de São Francisco, e não há nenhuma referência à Europa. Isso não é o mesmo que a Tesla ter dito que o programa fica por lá, mas é tudo o que o código mostra.</p>
+<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
+<p>O recorde de Grünheide não muda o preço nem o prazo de entrega de um Tesla em Portugal esta semana, mas é a melhor notícia possível para quem está a decidir <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">encomendar um Model Y</a> nos próximos meses: mais capacidade de fábrica tende a traduzir-se em carros disponíveis mais depressa, numa altura em que a procura na Europa continua a crescer com força. Vale a pena acompanhar se a segunda fábrica avança mesmo, porque é ela que decide se esta folga dura ou se volta a apertar a partir de 2027.</p>
+<p>Já o programa de Robotaxi com carros de clientes é, por agora, conversa exclusivamente americana. Mesmo que avance como descrito, continua a depender de uma versão do FSD sem supervisão que ainda nem nos Estados Unidos está livre de restrições, e que está muitos passos atrás da aprovação do <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">FSD Supervised, que continua pendente em Portugal</a>. Não há, por isso, qualquer razão para esperar isto por aqui a curto prazo.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Musk aponta o primeiro trimestre para a aprovação europeia do FSD, e a Tesla diz que o Model Y lidera as vendas</title>
     <link>https://teslaligado.pt/artigos/musk-fsd-europa-primeiro-trimestre-q3-resultados.html</link>
@@ -420,33 +441,6 @@
 <p>Na feira IAA Transportation, em Hannover (15 a 20 de setembro), a Tesla lançou oficialmente as vendas do camião elétrico Semi no mercado europeu. A transportadora sueca Einride já encomendou 500 unidades, a PepsiCo opera 86 e a DHL tem uma unidade em testes. O Semi promete cerca de 550 km de autonomia e carregamento a 800 kW, o suficiente para recuperar 60% da bateria em 30 minutos. As entregas na Europa só devem arrancar em 2027, e a Tesla ainda não anunciou preços para o mercado europeu, depois de nos Estados Unidos as versões custarem entre 227 mil e 253 mil euros ao câmbio atual.</p>
 <h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
 <p>Nenhuma destas notícias muda, para já, o dia a dia de quem conduz um Tesla em Portugal: o FSD Supervised continua por aprovar no país, e o Semi não tem data nem preço confirmados para cá. Mas juntas, mostram a direção das coisas. Os dados da Bélgica são exatamente o tipo de argumento que pode pesar na votação de 6 de outubro, e uma aprovação a nível europeu abriria a porta para Portugal avançar sem precisar de esperar por uma decisão isolada do regulador nacional. Já a versão 15 do FSD é um lembrete de que, mesmo com a aprovação ainda pendente, o software não pára de evoluir, o que conta para quem está a decidir entre comprar agora ou esperar. Quanto ao Semi, é sobretudo uma notícia para empresas de transporte, mas mostra que a Tesla continua a investir a sério na Europa, o que só é boa notícia para quem depende da rede de assistência e Superchargers da marca por cá.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>FSD chega à Eslovénia e a Europa decide a 6 de outubro: o que muda para Portugal</title>
-    <link>https://teslaligado.pt/artigos/fsd-eslovenia-votacao-europeia-6-outubro.html</link>
-    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-eslovenia-votacao-europeia-6-outubro.html</guid>
-    <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
-    <category>FSD</category>
-    <category>Europa</category>
-    <category>Software</category>
-    <category>Portugal</category>
-    <description>Sexto país aprova o FSD Supervised, a UE vota uma isenção para todo o bloco daqui a três semanas, e a 2026.32 começa a chegar aos carros. Ponto de situação para quem conduz Tesla em Portugal.</description>
-    <content:encoded><![CDATA[<p>Semana cheia para quem segue a Tesla na Europa. A Eslovénia tornou-se o sexto país a aprovar o FSD Supervised, a União Europeia marcou para 6 de outubro a votação que pode abrir o sistema aos 27 Estados-membros de uma vez, e a atualização 2026.32 começou a chegar aos carros com uma correção de recall feita por via aérea. Em Portugal continuamos à espera, mas o calendário nunca esteve tão próximo.</p>
-<h2>Eslovénia aprova, e acaba a pausa de dois meses</h2>
-<p>A Tesla Europe anunciou a 7 de setembro que o FSD Supervised está aprovado na Eslovénia, com rollout &quot;em breve&quot;. É o primeiro país novo desde a Bélgica, em junho, e fecha uma pausa de dois meses que já começava a preocupar quem acompanha o processo.</p>
-<p>A lista europeia fica assim: Países Baixos (abril), Lituânia e Estónia (maio), Dinamarca e Bélgica (junho) e agora Eslovénia. Todos aprovaram com base na mesma avaliação, feita pelo regulador holandês RDW ao abrigo do Regulamento ONU 171. Ainda não há data de rollout, número de build nem lista de hardware compatível para a Eslovénia.</p>
-<h2>6 de outubro: a votação que interessa mesmo</h2>
-<p>O caminho país a país tem sido lento porque cada Estado precisa de reconhecer a homologação holandesa. A alternativa está marcada: a 6 de outubro o comité técnico da UE vota uma isenção ao abrigo do Artigo 39, que estenderia a aprovação a todo o bloco, incluindo Portugal.</p>
-<p>Não vai ser uma votação pacífica. O dossier de testes do RDW foi classificado como informação comercial confidencial a pedido da Tesla, e os outros cinco países aceitaram a certificação sem avaliação própria. A Suécia opôs-se formalmente enquanto existir a função Speed Offset, que permite ao carro exceder o limite de velocidade. A França levantou dúvidas sobre velocidade e monitorização do condutor em ambiente urbano, e o Conselho Europeu de Segurança nos Transportes falou em dados de segurança pouco fiáveis. Se a isenção passar, o FSD fica legal para cerca de 450 milhões de pessoas; se falhar, voltamos ao ritmo de um país de cada vez.</p>
-<h2>2026.32 já anda na rua</h2>
-<p>A atualização 2026.32 foi vista pela primeira vez a 9 de setembro. As novidades visíveis são o menu das jantes, que passa a mostrar renders a cores de cada estilo, com e sem tampas aerodinâmicas, e a pesquisa dentro da biblioteca pessoal do Apple Music. A parte mais importante para os donos europeus é menos vistosa: a atualização inclui a correção do recall europeu 2026_103555, relacionado com impacto lateral, feita por over-the-air e sem visita ao serviço. Vêm também patches de segurança. A Tesla não detalhou modelos nem regiões, por isso a chegada a cada carro pode demorar algumas semanas.</p>
-<h2>Vendas: um trimestre mau até ao último dia</h2>
-<p>Os registos da Tesla na Europa estavam, a 25 de agosto, no valor mais baixo desde que há monitorização para esta altura do trimestre. Os números de julho são duros: 24 carros na Noruega (menos 97% que há um ano, embora o acumulado do ano esteja positivo, com 14 413 unidades) e 131 em Espanha. França (+86%) e Dinamarca (+52%) foram as exceções.</p>
-<p>Há contexto: a Tesla concentra entregas nas últimas semanas de cada trimestre e havia um volume grande de carros de Xangai em trânsito para registar em setembro. Mesmo assim, a pressão de marcas europeias e chinesas é real, e o resultado do trimestre vai depender quase todo das próximas duas semanas.</p>
-<h2>Model Y L: homologado, mas ainda não para nós</h2>
-<p>O Model Y L de seis lugares, com 4,96 m, bateria de 88,2 kWh e até 681 km WLTP, já tem homologação de tipo europeia através do RDW. Lançou nos EUA a 2 de julho e continua fora dos planos oficiais para a Europa, onde a Tesla prefere vender o Model Y de sete lugares (a partir de 55 490 € em Portugal). Sem preço em euros, as estimativas apontam para mais de 60 000 € cá, com isenção de ISV e IUC reduzido como qualquer elétrico.</p>
-<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
-<p>A data a marcar no calendário é 6 de outubro. Se a isenção europeia passar, o FSD Supervised deixa de depender de uma decisão do IMT e fica disponível por subscrição, a 99 €/mês (49 €/mês para quem já tem Enhanced Autopilot), já que a compra única acabou em maio. Até lá, vale a pena instalar a 2026.32 assim que aparecer, sobretudo pela correção do recall, e olhar para o fim de setembro como o momento em que a Tesla vai tentar salvar o trimestre europeu com preços e stock.</p>]]></content:encoded>
   </item>
 </channel>
 </rss>
