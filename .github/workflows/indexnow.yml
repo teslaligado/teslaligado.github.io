@@ -1,13 +1,15 @@
 # Avisa os motores de busca que suportam IndexNow (Bing, Yandex, Seznam, Naver)
-# sempre que páginas do site mudam. O Google não participa no IndexNow.
+# quando páginas do site mudam. O Google não participa no IndexNow.
 #
 # A chave vive em https://teslaligado.pt/<chave>.txt, gerada pelo próprio site
 # a partir do campo indexNowKey das Definições do painel. Não é um segredo:
 # a especificação do IndexNow exige que seja pública nesse endereço.
 #
-# Dois modos:
-#   push  → submete só as páginas alteradas nesse push.
-#   manual (Actions → IndexNow → Run workflow) → submete o sitemap inteiro.
+# Só são submetidas URLs que estão no sitemap.xml, ou seja, as páginas que
+# queremos indexadas. Os artigos diários estão em noindex e ficam de fora.
+#
+#   push   → as páginas do sitemap que mudaram nesse push.
+#   manual → o sitemap inteiro (Actions → IndexNow → Run workflow).
 
 name: IndexNow
 
@@ -20,7 +22,7 @@ jobs:
   submeter:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
@@ -36,19 +38,19 @@ jobs:
           HOST = "teslaligado.pt"
           KEY  = "65e99f72d37e01855d508c7d987b4a37"
 
+          try:
+              sitemap = set(re.findall(r"<loc>([^<]+)</loc>", open("sitemap.xml").read()))
+          except OSError:
+              sitemap = set()
+
           def url_de(f):
               return "https://%s/%s" % (HOST, "" if f == "index.html" else f)
 
-          urls, origem = [], ""
-
           if os.environ.get("EVENTO") == "workflow_dispatch":
               origem = "sitemap completo"
-              try:
-                  urls = re.findall(r"<loc>([^<]+)</loc>", open("sitemap.xml").read())
-              except OSError:
-                  urls = []
+              urls = sorted(sitemap)
           else:
-              origem = "páginas alteradas neste push"
+              origem = "páginas do sitemap alteradas neste push"
               antes = os.environ.get("BEFORE", "")
               base = antes if antes and not antes.startswith("0000000") else "HEAD~1"
               try:
@@ -57,9 +59,9 @@ jobs:
                       text=True).split()
               except subprocess.CalledProcessError:
                   mudadas = subprocess.check_output(["git", "ls-files"], text=True).split()
-              urls = [url_de(f) for f in mudadas if f.endswith(".html")]
+              urls = sorted({url_de(f) for f in mudadas if f.endswith(".html")} & sitemap)
 
-          urls = sorted(set(urls))[:100]
+          urls = urls[:100]
 
           json.dump({
               "host": HOST,
@@ -68,7 +70,7 @@ jobs:
               "urlList": urls,
           }, open("indexnow.json", "w"))
 
-          print("%s: %d URLs" % (origem, len(urls)))
+          print("%s: %d URLs (sitemap tem %d)" % (origem, len(urls), len(sitemap)))
           for u in urls:
               print("  " + u)
           with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
@@ -89,4 +91,4 @@ jobs:
 
       - name: Nada a submeter
         if: steps.lista.outputs.n == '0'
-        run: echo "Nenhuma página HTML mudou neste push. Nada enviado."
+        run: echo "Nenhuma pagina do sitemap mudou neste push. Nada enviado."
