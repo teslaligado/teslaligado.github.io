@@ -6,8 +6,34 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 29 Oct 2026 18:18:38 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 08:12:18 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Itália quer o FSD aprovado depressa na UE e Seul dá razão à Tesla em tribunal</title>
+    <link>https://teslaligado.pt/artigos/italia-apoia-fsd-ue-tribunal-seul-saida-emergencia-supercharger.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/italia-apoia-fsd-ue-tribunal-seul-saida-emergencia-supercharger.html</guid>
+    <pubDate>Fri, 30 Oct 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Itália</category>
+    <category>Software</category>
+    <category>Tribunais</category>
+    <description>Salvini quer uma aprovação europeia rápida do Tesla Assisted Driving, um tribunal de Seul rejeitou reembolsos do FSD e a 2026.38.6.1 traz uma saída de emergência no Supercharger.</description>
+    <content:encoded><![CDATA[<p>Três notícias da última quinta-feira mexem com quem conduz um Tesla deste lado da Europa. A Itália mudou de tom sobre o FSD, um tribunal sul-coreano decidiu a favor da Tesla num processo sobre o que o FSD prometia, e há uma atualização nova com uma função pensada para emergências no Supercharger.</p>
+<h2>Itália passa a apoiar uma aprovação europeia rápida</h2>
+<p>Depois de uma chamada com Elon Musk, o vice-primeiro-ministro e ministro das Infraestruturas e Transportes italiano, Matteo Salvini, escreveu no X a 29 de outubro que a Itália &quot;apoia uma rápida aprovação na UE do Tesla Assisted Driving&quot;, o nome europeu do FSD Supervised.</p>
+<p>Atenção ao que isto não é: a Itália não reconheceu a aprovação neerlandesa da RDW. Continua a contar com a votação no comité técnico europeu de veículos (TCMV). Para passar, essa votação precisa de 15 dos 27 Estados-membros, que representem pelo menos 65% da população da UE, como explica a Electrek. A Itália vale cerca de 13% dessa população (58,9 de 450,6 milhões de habitantes a 1 de janeiro de 2025, segundo o Eurostat). A Alemanha já tinha dito a 6 de outubro que acompanharia o processo de forma construtiva.</p>
+<p>No mesmo dia, a Statens vegvesen, a autoridade rodoviária norueguesa, atualizou a sua página: confirma que não houve votação a 6 de outubro e que, para a reunião de dezembro, ainda não está decidido se haverá voto. Hoje há 10 países da UE com aprovação nacional, sendo a Letónia a mais recente, a 26 de outubro.</p>
+<h2>Seul: o FSD não prometia condução autónoma</h2>
+<p>O Tribunal Distrital Central de Seul rejeitou na quinta-feira a ação de 88 donos que pediam o reembolso total do FSD, segundo a Reuters. O tribunal entendeu que a opção não prometia condução totalmente autónoma sem intervenção humana e que a entrega de funções extra dependia de avanços técnicos e de aprovações dos reguladores, algo que os compradores sabiam que podia demorar.</p>
+<p>A decisão refere ainda que uma atualização recente levou o reconhecimento de semáforos e sinais, e a condução em cidade, a carros mais antigos com o computador HW3. É uma decisão de um tribunal coreano e não vincula ninguém na Europa, mas mostra como um juiz leu o contrato do FSD.</p>
+<h2>2026.38.6.1: sair do Supercharger com o cabo ligado</h2>
+<p>Segundo o Not a Tesla App, a atualização 2026.38.6.1 começou a chegar a 29 de outubro, por agora a muito poucos carros. A novidade mais séria chama-se Emergency Drive Away: deixa engrenar o Drive com o cabo do Supercharger ainda ligado. As notas da Tesla avisam que arrancar assim danifica o carro e o carregador, que o dono pode ter de pagar a reparação e que, ao ativar a função, são enviados à Tesla excertos curtos das câmaras. Há também o Modo Halloween e, no Model 3 com hardware específico, nivelamento dinâmico dos médios.</p>
+<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
+<p>Portugal continua sem aprovação nacional: em setembro, o Governo recusou reconhecer a decisão da RDW e preferiu esperar pela decisão europeia. O apoio italiano não muda isso, mas aumenta as hipóteses de uma votação europeia, que é o caminho mais provável para o FSD chegar cá. O estado atual está no nosso <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">guia do FSD em Portugal</a>.</p>
+<p>Para quem pagou o FSD num carro com HW3, a decisão de Seul é um sinal de que processos semelhantes podem não ter vida fácil, mas a lei portuguesa e europeia do consumidor é outra.</p>
+<p>Quanto à 2026.38.6.1, a 30 de outubro os registos do TeslaFi e do Teslascope só a mostravam em carros na Austrália e na Nova Zelândia. Quando chegar, o Emergency Drive Away serve só para emergências reais: em qualquer outra situação, a conta pode ser tua. Para o resto, vale o nosso <a class="ilink" href="https://teslaligado.pt/carregar-supercharger-tesla.html">guia de carregamento no Supercharger</a>.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Apoio de 80% para elétricos ganha detalhes e o FSD já anda nas estradas eslovacas</title>
     <link>https://teslaligado.pt/artigos/apoio-80-eletricos-detalhes-fsd-eslovaquia-donos.html</link>
@@ -416,29 +442,6 @@
 <p>Para já, o acesso está limitado aos subscritores SuperGrok Heavy, sem data confirmada para chegar a outros níveis. Também exige processador de infoentretenimento AMD, software 2025.26 ou mais recente e <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">Conetividade Premium</a>, disponível em Model 3, Model Y, Cybertruck e alguns Model S e Model X.</p>
 <h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
 <p>A Chéquia mostra como pode ser rápido o caminho entre aprovação e estrada: se Portugal seguir o mesmo padrão dos outros sete países, a distância entre uma eventual luz verde e o FSD a funcionar no teu carro pode ser de dias, não de meses. Mas a França é o verdadeiro fator de incerteza antes de 6 de outubro: se os testes não derem resultado a tempo, o adiamento para dezembro empurra tudo, incluindo Portugal, para o fim do ano. Vale a pena seguir esta história de perto nos próximos quinze dias. Quanto ao Grok, é sobretudo uma curiosidade por agora: exige uma subscrição adicional que ainda não tem data para sair do nível mais caro, por isso não é motivo para mudar planos de compra ou de subscrição de Conetividade Premium.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>FSD chega oficialmente à Chéquia e teste do Model Y de sete lugares em Portugal</title>
-    <link>https://teslaligado.pt/artigos/fsd-chequia-oficial-teste-model-y-sete-lugares.html</link>
-    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-chequia-oficial-teste-model-y-sete-lugares.html</guid>
-    <pubDate>Tue, 22 Sep 2026 08:00:00 GMT</pubDate>
-    <category>FSD</category>
-    <category>Europa</category>
-    <category>Portugal</category>
-    <category>Preços</category>
-    <description>O Ministério dos Transportes checo confirmou oficialmente a aprovação do FSD Supervised, o sétimo país europeu, e um teste real ao Model Y de sete lugares em Portugal revela um consumo de 17,7 kWh/100 km.</description>
-    <content:encoded><![CDATA[<p>A Chéquia tornou-se esta semana o sétimo país europeu a reconhecer o FSD Supervised, mas desta vez a confirmação não veio só da Tesla: foi o próprio Ministério dos Transportes checo a validar, por comunicado oficial. Do outro lado das notícias desta semana, um teste ao Model Y de sete lugares em Portugal trouxe números reais de consumo e autonomia para quem está a pensar nessa versão.</p>
-<h2>A Chéquia confirma, desta vez sem ambiguidade</h2>
-<p>Há dias, a Tesla Europe anunciou nas redes sociais que o FSD Supervised tinha sido aprovado na Chéquia, <a class="ilink" href="https://teslaligado.pt/artigos/chequia-fsd-testes-portugal-roadster-powerwall.html">mas o Ministério dos Transportes checo ainda não tinha confirmado a notícia</a>. Poucas horas depois, o próprio ministério publicou um comunicado a confirmar: reconhece a homologação provisória emitida pelo regulador holandês RDW a 10 de abril de 2026, ao abrigo do Artigo 39 do Regulamento (UE) 2018/858, a mesma base legal usada pelos seis países anteriores.</p>
-<p>A revira volta chama a atenção porque, em junho, esse mesmo ministério tinha dito publicamente que preferia esperar por uma avaliação a nível da União Europeia, argumentando que a homologação holandesa não é uma aprovação automaticamente válida em toda a União Europeia. Com a Chéquia, a lista de países europeus com FSD Supervised aprovado sobe para sete: Países Baixos, Lituânia, Estónia, Dinamarca, Bélgica, Eslovénia e agora Chéquia. A Tesla ainda não anunciou data de rollout para os condutores checos, um padrão que se repetiu em quase todos os países aprovados até agora.</p>
-<p>Para Portugal, que continua <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">sem decisão nacional sobre o FSD Supervised</a>, a confirmação da Chéquia é mais um argumento a favor da isenção que a União Europeia vota a 6 de outubro, e que decidiria a questão para os 27 Estados-membros de uma vez.</p>
-<h2>Teste do Model Y de sete lugares: 17,7 kWh/100 km em viagem real</h2>
-<p>Enquanto a política do FSD avança devagar, o 4gnews testou em Portugal o Model Y de sete lugares ao longo de 1.820 km, sobretudo em autoestrada e com o carro cheio, uma espécie de teste de férias em família. O consumo médio registado foi de 17,7 kWh/100 km, com ar condicionado ligado e bagagem a bordo, mais alto do que os valores WLTP oficiais mas realista para quem carrega o carro a sério.</p>
-<p>A versão testada, com tração integral e dois motores, custa 57.475 € totalmente equipada em Portugal, <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">dentro da gama de preços do Model Y</a>, faz 0-100 km/h em 4,8 segundos e tem até 622 km de autonomia WLTP. O carregamento em Supercharger chega aos 250 kW de pico, recuperando cerca de 267 km em 15 minutos.</p>
-<p>Quanto às críticas: a terceira fila de bancos é apertada para adultos em viagens longas, pensada sobretudo para crianças, os limpa-para-brisas automáticos revelaram-se pouco fiáveis, e o carro continua sem Apple CarPlay, Android Auto ou Waze nativo. Em compensação, o espaço de bagageira com cinco lugares ocupados é generoso, tanto à frente como atrás, e o conforto e o isolamento acústico saíram elogiados.</p>
-<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
-<p>A confirmação oficial da Chéquia é um sinal de que os países europeus estão cada vez mais confortáveis a reconhecer a homologação holandesa sem fazer a sua própria avaliação, o que só reforça as hipóteses da votação de 6 de outubro passar e trazer o FSD Supervised a Portugal de uma vez, sem depender de uma decisão isolada do IMT. Até lá, continua a não haver funcionalidades adicionais para quem subscreve o pacote por cá.</p>
-<p>Já para quem está a decidir entre a versão de cinco e a de sete lugares do Model Y, o teste do 4gnews é um dado útil: os 57.475 € da versão testada ficam bem acima do Model Y de tração traseira mais barato, e a terceira fila só compensa mesmo para quem precisa dela com regularidade, para transportar crianças ou em viagens ocasionais com mais passageiros. Para uso normal em família com bagagem, o consumo real de 17,7 kWh/100 km é o número a ter em conta ao calcular o custo por quilómetro, mais realista do que a ficha técnica.</p>]]></content:encoded>
   </item>
 </channel>
 </rss>
