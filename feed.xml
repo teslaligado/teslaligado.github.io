@@ -6,8 +6,34 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 30 Oct 2026 08:12:18 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 08:12:26 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Powerwall passa a gerir a bomba de calor e a Tesla muda as referências nos EUA</title>
+    <link>https://teslaligado.pt/artigos/powerwall-bomba-calor-europa-referencias-fsd-eua.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/powerwall-bomba-calor-europa-referencias-fsd-eua.html</guid>
+    <pubDate>Sat, 31 Oct 2026 08:00:00 GMT</pubDate>
+    <category>Powerwall</category>
+    <category>Tesla Energy</category>
+    <category>Bomba de calor</category>
+    <category>Programa de referências</category>
+    <category>FSD</category>
+    <category>Portugal</category>
+    <description>O Powerwall 3 e o 3P ganham na Europa uma função para gerir a bomba de calor. Nos EUA, as referências da Tesla passam a dar FSD em vez de benefícios na compra do carro.</description>
+    <content:encoded><![CDATA[<p>Duas novidades que a Tesla anunciou a 30 de outubro não têm nada a ver com o carro em andamento, mas mexem com quem tem ou quer ter um Tesla. Na Europa, o Powerwall passou a poder controlar a bomba de calor da casa. Nos Estados Unidos, o programa de referências deixou de premiar a compra de carros e passou a pagar em meses de FSD.</p>
+<h2>O Powerwall passa a gerir a bomba de calor</h2>
+<p>A Tesla Energy anunciou no X a 30 de outubro, às 03:25 em Lisboa, a função Heat Pump Optimization. Segundo a própria Tesla, permite ao Powerwall &quot;reforçar o aquecimento quando há excedente solar ou a energia está barata&quot;, para poupar quando as tarifas estão altas. A função está disponível com o Powerwall 3 e o Powerwall 3P na Europa.</p>
+<p>A ideia é simples: a casa guarda energia sob a forma de calor. Quando os painéis produzem mais do que a casa gasta, ou quando o preço da eletricidade desce, a bomba de calor trabalha mais. Quando a energia fica cara, a casa precisa de menos da rede.</p>
+<p>A Tesla não disse que marcas de bombas de calor foram testadas, em que países europeus a função já está ativa, nem que versão de firmware é precisa. Num post em neerlandês de 26 de outubro, a Tesla Energy ligou a integração a bombas de calor compatíveis com SG Ready, um rótulo da associação alemã de bombas de calor (BWP) para controlo por contactos. O Powerwall 2 não aparece no anúncio.</p>
+<h2>Nos EUA, as referências passam a pagar em FSD</h2>
+<p>A Tesla lançou nos Estados Unidos um novo programa de referências do FSD (Supervised), anunciado no X pela Tesla North America a 30 de outubro e descrito na página de apoio da Tesla. Quem recebe a ligação ganha um mês grátis de FSD. Quem a partilha ganha mais um mês, ou 99 dólares em crédito Tesla se já tiver o FSD comprado, quando a outra pessoa passa a pagar a subscrição. Segundo a página de apoio da Tesla sobre este programa, citada pelo Electrek e pelo Not a Tesla App, o limite é de 12 prémios por ano civil.</p>
+<p>Segundo a mesma página, para partilhar a ligação é preciso pagar o FSD ao mês ou tê-lo comprado antes de a Tesla deixar de o vender. Quem recebe tem de ter um Tesla com hardware compatível e não pode ter pago FSD nos últimos 12 meses.</p>
+<p>A mudança maior está nos termos do programa nos EUA. Na página de apoio do programa nos EUA, nenhum carro aparece já como compra elegível para benefícios do comprador: quem compra um Tesla com o código de um amigo nos EUA não recebe nada, e o amigo também não. A Tesla não anunciou a alteração.</p>
+<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
+<p>Sobre o Powerwall: a Tesla abriu as encomendas do Powerwall 3P em Portugal a 4 de setembro, e a Tesla diz que a função está disponível na Europa, mas não publicou a lista de países, por isso ainda não é certo que já funcione cá. Se já tens Powerwall 3 ou 3P e uma bomba de calor, vale a pena perguntares ao instalador certificado se o teu equipamento é compatível antes de contares com a poupança.</p>
+<p>Sobre as referências: a mudança anunciada é só nos Estados Unidos. Não encontrámos nenhum anúncio da Tesla de mudanças ao programa em Portugal, onde o FSD nem sequer está disponível. O Governo recusou em setembro reconhecer a aprovação da RDW e prefere esperar pela decisão europeia, como explicamos no <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">guia do FSD em Portugal</a>. Um programa pago em meses de FSD não faria sentido cá enquanto isso não mudar.</p>
+<p>Se estás a pensar encomendar, confirma na página da Tesla, antes de configurares, o benefício que aparece para Portugal. As ligações de referência não se aplicam depois de feita a encomenda. Os passos da compra estão no nosso <a class="ilink" href="https://teslaligado.pt/comprar-tesla-portugal.html">guia para comprar um Tesla em Portugal</a>.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Itália quer o FSD aprovado depressa na UE e Seul dá razão à Tesla em tribunal</title>
     <link>https://teslaligado.pt/artigos/italia-apoia-fsd-ue-tribunal-seul-saida-emergencia-supercharger.html</link>
@@ -420,28 +446,6 @@
 <p>A Tesla anunciou que ultrapassou os 100 mil veículos matriculados na Dinamarca, o dobro dos 50 mil que tinha em setembro de 2023, num país de apenas seis milhões de habitantes. A marca liga o número à aprovação do FSD Supervised no país, em junho de 2026, o quarto na Europa a dar luz verde, e aponta a Escandinávia como a região que mais depressa adota carros elétricos no continente. Não é um número que se repita em Portugal tão cedo, mas mostra o que a combinação de preço competitivo, rede de carregamento madura e clareza regulatória pode fazer ao longo de vários anos.</p>
 <h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
 <p>Nenhuma destas notícias muda o que se pode fazer com um Tesla em Portugal amanhã de manhã. Mas juntas, desenham um caminho: o país está a criar os canais formais para testar tecnologia autónoma, mesmo que ainda sem um único pedido de licença submetido, a rede de carregamento continua a crescer com mais uma estação em obras, e o exemplo dinamarquês serve de referência do que pode acontecer por cá se a aprovação europeia do FSD e o investimento em Superchargers continuarem neste ritmo. Para quem está a decidir comprar agora ou esperar, nada disto é motivo para adiar a decisão, mas vale a pena seguir a assinatura da próxima semana e a evolução das obras em Caldas da Rainha nas próximas semanas.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>FSD já circula em Praga, a França testa antes de votar e chega o Grok ao Tesla</title>
-    <link>https://teslaligado.pt/artigos/fsd-praga-franca-testes-grok-tesla.html</link>
-    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-praga-franca-testes-grok-tesla.html</guid>
-    <pubDate>Wed, 23 Sep 2026 08:00:00 GMT</pubDate>
-    <category>FSD</category>
-    <category>Europa</category>
-    <category>Software</category>
-    <category>Portugal</category>
-    <description>Condutores em Praga já usam o FSD Supervised dias depois da aprovação na Chéquia, a França decidiu testar o sistema com carros próprios antes da votação de 6 de outubro, e chegou aos Tesla o assistente Grok Bot.</description>
-    <content:encoded><![CDATA[<p>Esta semana confirmou que o FSD Supervised não fica só no papel depois de aprovado: em Praga, os primeiros condutores já andam com o sistema ligado em estrada pública. Do outro lado, a França decidiu não confiar apenas na homologação holandesa e está a testar o FSD com os seus próprios carros, com resultados esperados mesmo em cima da votação europeia de 6 de outubro. E no ecrã central dos Tesla começou a aparecer uma novidade que não tem nada a ver com condução: o Grok Bot.</p>
-<h2>FSD já anda a circular em Praga, dias depois da aprovação</h2>
-<p>A atualização 2026.27.300, com o FSD Supervised na versão v14.2.2.6, começou a chegar aos carros checos já no dia 21 de setembro, a mesma data em que o Ministério dos Transportes confirmou oficialmente <a class="ilink" href="https://teslaligado.pt/artigos/fsd-chequia-oficial-teste-model-y-sete-lugares.html">a aprovação do sistema na Chéquia</a>. Segundo o site Basenor, condutores em Praga já estavam a usar o FSD em estrada pública poucas horas depois da confirmação, sem esperar semanas como aconteceu noutros países aprovados este ano. É a terceira vaga de distribuição desta atualização, que arrancou a meados de setembro, e não traz funcionalidades novas: é sobretudo uma versão de estabilidade e correção de erros. A subscrição continua nos 99 € por mês, ou 49 € por mês para quem já tinha o Enhanced Autopilot.</p>
-<h2>A França testa com carros próprios, e a votação de 6 de outubro pode escorregar para dezembro</h2>
-<p>Ao contrário dos sete países que já reconheceram a homologação holandesa sem repetir os testes, a França escolheu outro caminho: está a fazer a sua própria verificação independente, com dois carros equipados com FSD cedidos pela Tesla ao governo francês. Os primeiros resultados são esperados ainda nesta segunda quinzena de setembro, mesmo em cima da votação de 6 de outubro no comité técnico europeu.</p>
-<p>O detalhe que interessa a quem espera pelo FSD em Portugal é este: se a posição francesa não estiver definida a tempo, a votação pode ser adiada para início de dezembro. O ministro dos Transportes, Philippe Tabarot, tinha dito em julho que o sistema &quot;não era suficientemente seguro&quot;, mas falou de uma troca &quot;construtiva&quot; com Elon Musk a 2 de setembro, o que já é uma mudança de tom clara em relação a há dois meses. <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">O calendário completo país a país está no nosso guia do FSD</a>.</p>
-<h2>O Grok chega ao ecrã do teu Tesla</h2>
-<p>Longe da política, a Tesla começou a distribuir o Grok Bot, um assistente de inteligência artificial que já não se limita a comandos simples de voz: segundo testes do Basenor, controla 116 dos 170 comandos testados no carro, desde o clima e os bancos até à abertura do porta-luvas. Os chamados &quot;Connectors&quot; ligam o Grok a serviços externos como DoorDash, Uber Eats e OpenTable, para tarefas que antes exigiam o telemóvel.</p>
-<p>Para já, o acesso está limitado aos subscritores SuperGrok Heavy, sem data confirmada para chegar a outros níveis. Também exige processador de infoentretenimento AMD, software 2025.26 ou mais recente e <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">Conetividade Premium</a>, disponível em Model 3, Model Y, Cybertruck e alguns Model S e Model X.</p>
-<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
-<p>A Chéquia mostra como pode ser rápido o caminho entre aprovação e estrada: se Portugal seguir o mesmo padrão dos outros sete países, a distância entre uma eventual luz verde e o FSD a funcionar no teu carro pode ser de dias, não de meses. Mas a França é o verdadeiro fator de incerteza antes de 6 de outubro: se os testes não derem resultado a tempo, o adiamento para dezembro empurra tudo, incluindo Portugal, para o fim do ano. Vale a pena seguir esta história de perto nos próximos quinze dias. Quanto ao Grok, é sobretudo uma curiosidade por agora: exige uma subscrição adicional que ainda não tem data para sair do nível mais caro, por isso não é motivo para mudar planos de compra ou de subscrição de Conetividade Premium.</p>]]></content:encoded>
   </item>
 </channel>
 </rss>
