@@ -6,7 +6,7 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Sun, 01 Nov 2026 11:01:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 15:08:43 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
   <item>
     <title>Abrantes ganha a votação dos Superchargers e a 2026.39.6 chega aos Tesla com FSD</title>
@@ -18,6 +18,7 @@
     <category>Software</category>
     <category>FSD</category>
     <category>Europa</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/abrantes-votacao-superchargers-atualizacao-2026-39-6-europa.webp" type="image/webp" length="59254"/>
     <description>Abrantes está entre os vencedores da nova votação de Superchargers da Tesla, e a Europa recebe a 2026.39.6 com o FSD na v14.2.2.6 e a 2026.38.6 nos carros sem FSD.</description>
     <content:encoded><![CDATA[<p>Esta semana trouxe uma boa notícia para quem atravessa o Médio Tejo e duas atualizações novas para a frota europeia. Abrantes aparece na lista de vencedores da votação de Superchargers da Tesla, e os carros europeus começaram a receber software novo, com e sem FSD.</p>
 <h2>Abrantes ganha a votação de Superchargers</h2>
@@ -45,6 +46,7 @@
     <category>Itália</category>
     <category>Software</category>
     <category>Tribunais</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/italia-apoia-fsd-ue-tribunal-seul-saida-emergencia-supercharger.webp" type="image/webp" length="34156"/>
     <description>Salvini quer uma aprovação europeia rápida do Tesla Assisted Driving, um tribunal de Seul rejeitou reembolsos do FSD e a 2026.38.6.1 traz uma saída de emergência no Supercharger.</description>
     <content:encoded><![CDATA[<p>Três notícias da última quinta-feira mexem com quem conduz um Tesla deste lado da Europa. A Itália mudou de tom sobre o FSD, um tribunal sul-coreano decidiu a favor da Tesla num processo sobre o que o FSD prometia, e há uma atualização nova com uma função pensada para emergências no Supercharger.</p>
 <h2>Itália passa a apoiar uma aprovação europeia rápida</h2>
@@ -71,6 +73,7 @@
     <category>FSD</category>
     <category>Europa</category>
     <category>Eslováquia</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/apoio-80-eletricos-detalhes-fsd-eslovaquia-donos.webp" type="image/webp" length="43598"/>
     <description>O Ministério do Ambiente detalhou o apoio de até 80% para os mais carenciados. Na Eslováquia, o FSD já chegou aos donos e a Suíça diz que a Tesla nem pediu aprovação.</description>
     <content:encoded><![CDATA[<p>O apoio de até 80% para os mais carenciados comprarem um elétrico já tem algumas regras escritas, e na Eslováquia o FSD saiu do papel e chegou aos donos. Há ainda uma resposta oficial da Suíça que ajuda a perceber como funciona a aprovação país a país.</p>
 <h2>Apoio de até 80%: o que o Ministério já explicou</h2>
@@ -96,6 +99,7 @@
     <category>FSD</category>
     <category>Europa</category>
     <category>Letónia</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/apoios-eletricos-2027-50-milhoes-letonia-csdd-confirma-fsd.webp" type="image/webp" length="72598"/>
     <description>O Governo anunciou 50 milhões para apoiar elétricos em 2027 e até 80% para os mais carenciados, sem regras ainda. A Letónia confirmou o FSD e a CSDD explica o que mudou.</description>
     <content:encoded><![CDATA[<p>O Governo pôs números no apoio à compra de carros elétricos em 2027, e a Letónia deixou de ser só um anúncio da Tesla: a autoridade letã confirmou a aprovação e explicou o que a Tesla mudou no sistema. Nenhuma das duas notícias muda o que podes fazer hoje em Portugal, mas as duas contam para decisões que vêm aí.</p>
 <h2>Apoios para elétricos em 2027: 50 milhões e até 80% para os mais carenciados</h2>
@@ -119,6 +123,7 @@
     <category>FSD</category>
     <category>Europa</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/letonia-fsd-decimo-pais-ue-parecer-imt-portugal.webp" type="image/webp" length="64258"/>
     <description>A Letónia é anunciada como o décimo país da UE a aprovar o FSD Supervised, ainda sem confirmação oficial, e uma investigação revela que o parecer técnico citado pelo Governo português para recusar o sistema pode nem existir.</description>
     <content:encoded><![CDATA[<p>A Letónia tornou-se esta semana o décimo país da União Europeia a ver anunciada a aprovação do FSD Supervised, mas, tal como aconteceu antes com a Eslovénia, a Chéquia e a Croácia, o anúncio partiu primeiro da Tesla, sem confirmação independente da autoridade letã. Em Portugal, surgiu um problema mais incómodo: um pedido de acesso a documentos revelou que o parecer técnico citado pelo Governo para recusar reconhecer a homologação holandesa pode simplesmente não existir.</p>
 <h2>Letónia: o décimo país, ainda por confirmar</h2>
@@ -139,6 +144,7 @@
     <category>Software</category>
     <category>Portugal</category>
     <category>Europa</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/tesla-mapas-proprios-fsd-roadster-portugal.webp" type="image/webp" length="91544"/>
     <description>A Tesla diz que vai construir mapas próprios para o FSD, com inteligência artificial, e o site português já aceita reservas para o novo Roadster, com a versão Rocket de fora.</description>
     <content:encoded><![CDATA[<p>Esta semana trouxe duas novidades que têm pouco a ver entre si à primeira vista, mas mostram bem onde a Tesla está a investir a cabeça: o software que ainda falta ao FSD, e o carro mais extremo que a marca já fez. A Tesla admitiu, na chamada de resultados do terceiro trimestre, que vai construir os seus próprios mapas para corrigir os erros de rota do FSD, e o site português já aceita reservas para duas das três versões do novo Roadster.</p>
 <h2>Mapas próprios para corrigir os erros de rota do FSD</h2>
@@ -162,6 +168,7 @@
     <category>Europa</category>
     <category>Portugal</category>
     <category>Vendas</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/giga-berlim-recorde-producao-robotaxi-donos.webp" type="image/webp" length="48442"/>
     <description>A fábrica de Grünheide atingiu 7.000 Model Y numa semana, o novo máximo da fábrica Tesla na Europa, com uma segunda unidade já em preparação. Nos EUA, código da app do Robotaxi sugere que donos vão poder juntar os seus carros à frota a partir de 2027.</description>
     <content:encoded><![CDATA[<p>A fábrica de Grünheide, perto de Berlim, construiu 7.000 Model Y numa única semana, o novo máximo da única fábrica de veículos que a Tesla tem na Europa, anunciado pela própria marca a 23 de outubro. Do outro lado do Atlântico, código encontrado na app do Robotaxi sugere que a Tesla está a preparar um programa para donos juntarem os seus próprios carros à frota, ainda sem confirmação oficial nem data certa.</p>
 <h2>Giga Berlim bate recorde, e já há plano para uma segunda fábrica</h2>
@@ -183,6 +190,7 @@
     <category>Europa</category>
     <category>Portugal</category>
     <category>Vendas</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/musk-fsd-europa-primeiro-trimestre-q3-resultados.webp" type="image/webp" length="30564"/>
     <description>Na chamada de resultados do terceiro trimestre, Elon Musk admitiu ficar surpreendido se a aprovação europeia do FSD demorar mais do que um trimestre. Luxemburgo, Bélgica e Noruega deram, cada um à sua maneira, mais um passo no processo.</description>
     <content:encoded><![CDATA[<p>Esta terça-feira trouxe o testemunho mais concreto até agora sobre quando a Tesla espera destravar o FSD Supervised em toda a Europa, e três pequenos movimentos regulatórios que mostram como cada país está a lidar com a espera. Juntos, dão uma boa fotografia do estado do processo a dez dias do fim de outubro.</p>
 <h2>Musk aponta o primeiro trimestre, a Tesla diz que já vende mais na Europa por causa disso</h2>
@@ -208,6 +216,7 @@
     <category>Software</category>
     <category>Europa</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/fsd-atualizacao-roadster-velocidade-tesla-club-portugal.webp" type="image/webp" length="27480"/>
     <description>A atualização 2026.38.5.10 traz o FSD v14.3.13 e melhora o FSD Lite do Hardware 3, Elon Musk promete mais de meio Mach no Roadster quando a própria equipa só confirma 344 km/h, e a Tesla Club Portugal continua sem reunião marcada com o IMT.</description>
     <content:encoded><![CDATA[<p>Esta semana trouxe duas frentes bem diferentes para quem segue a Tesla, mais um ponto de situação sobre o processo em Portugal. Chegou aos carros a atualização 2026.38.5.10, com uma versão mais capaz do FSD Supervised para quem tem o computador Hardware 4 e melhorias importantes para quem ainda tem Hardware 3. Do lado mais mediático, Elon Musk prometeu números de velocidade para o novo Roadster que a própria equipa da Tesla, em vídeo, ainda não confirma. E a Tesla Club Portugal revelou mais detalhes sobre o impasse com o IMT antes da votação europeia de dezembro.</p>
 <h2>FSD mais rápido e mais confiante na atualização 2026.38.5.10</h2>
@@ -229,6 +238,7 @@
     <category>Europa</category>
     <category>Portugal</category>
     <category>Software</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/eslovaquia-confirma-fsd-17-paises-fsd-lite-model-s-x.webp" type="image/webp" length="39788"/>
     <description>A Eslováquia torna-se o nono país europeu a aprovar oficialmente o FSD Supervised, o sistema já está ativo em 17 países de quatro continentes, e chega aos Model S e X mais antigos uma versão mais leve do software.</description>
     <content:encoded><![CDATA[<p>A Eslováquia tornou-se esta semana o nono país europeu a reconhecer oficialmente o FSD Supervised, numa confirmação que chegou mais depressa do que o costume. Com ela, o sistema, que na Europa já se chama Tesla Assisted Driving, passa a estar aprovado em 17 países espalhados por quatro continentes, ainda que nem em todos esteja já ativo nos carros. E chegou também aos Model S e Model X mais antigos uma versão mais leve do software, pensada para quem ainda tem o computador Hardware 3 com processador Intel.</p>
 <h2>Eslováquia confirma, menos de dez dias depois do anúncio</h2>
@@ -249,6 +259,7 @@
     <category>Europa</category>
     <category>Software</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/tesla-roadster-revelado-cybercab-paris-ecra-traseiro.webp" type="image/webp" length="36062"/>
     <description>A Tesla revelou o novo Roadster, com produção só prevista para 2028, o Cybercab fez a primeira aparição pública na Europa no Salão de Paris, e uma atualização de software travou o truque que dava HBO Max e Prime Video no ecrã traseiro.</description>
     <content:encoded><![CDATA[<p>Depois de quase uma década de promessas e atrasos, a Tesla revelou finalmente o novo Roadster, numa transmissão a partir do centro de testes da SpaceX, no Texas, na noite de quinta-feira. A mesma semana trouxe também o Cybercab à Europa pela primeira vez, exposto no Salão de Paris, e uma atualização de software que travou um truque popular entre donos de Tesla, o de ver HBO Max e Prime Video no ecrã traseiro.</p>
 <h2>O Roadster já tem três versões, mas continua sem data nem preço para a Europa</h2>
@@ -270,6 +281,7 @@
     <category>FSD</category>
     <category>Europa</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/giga-berlim-expansao-fsd-nome-manuais-portugueses.webp" type="image/webp" length="69178"/>
     <description>A fábrica de Grünheide prepara uma expansão que mais que duplica o espaço fabril e quase duplica a capacidade de baterias, enquanto o nome Tesla Assisted Driving chega aos manuais e ao site português, com novos números de segurança que a Reuters já questionou.</description>
     <content:encoded><![CDATA[<p>Esta quinta-feira trouxe duas notícias que, à primeira vista, não têm nada a ver uma com a outra, mas que juntas mostram os dois lados da Tesla na Europa neste momento: por um lado a fábrica que produz os carros vendidos em Portugal prepara-se para crescer a sério, por outro o nome do sistema de condução assistida acabou de chegar, oficialmente, aos manuais e ao site em português, no meio de uma disputa sobre os números que a marca usa para defender a sua segurança.</p>
 <h2>Giga Berlim quer quase duplicar o espaço fabril</h2>
@@ -291,6 +303,7 @@
     <category>Europa</category>
     <category>FSD</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/model-3-mais-autonomia-europa-nome-fsd-site-portugues.webp" type="image/webp" length="28398"/>
     <description>A versão Performance do Model 3 passa a ter 600 km WLTP na Europa e a Premium Long Range AWD acelera mais depressa. Em Portugal, o site da Tesla já mostra o novo nome do FSD, Tesla Assisted Driving.</description>
     <content:encoded><![CDATA[<p>Duas novidades mais discretas esta semana, mas que interessam a quem já tem ou está a pensar comprar um Tesla em Portugal. Na Europa, o Model 3 recebeu um pacote de atualizações que traz mais autonomia à versão Performance e mais aceleração à Premium Long Range AWD. E no site português da Tesla, o FSD já deixou de se chamar FSD: aparece agora como Tesla Assisted Driving, confirmando por aqui a mudança que já tínhamos visto chegar ao resto da Europa.</p>
 <h2>O Model 3 fica com mais autonomia e um ecrã maior</h2>
@@ -311,6 +324,7 @@
     <category>Europa</category>
     <category>Portugal</category>
     <category>Preços</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/eslovaquia-fsd-tesla-assisted-driving-oe2027-incentivos.webp" type="image/webp" length="54722"/>
     <description>O ministro dos Transportes eslovaco promete reconhecer o FSD Supervised dentro de dias, a Tesla já chama Tesla Assisted Driving ao sistema nas páginas europeias, e o Orçamento do Estado para 2027 promete novos incentivos a elétricos, ainda sem valores.</description>
     <content:encoded><![CDATA[<p>Esta semana trouxe três frentes diferentes para quem segue a Tesla em Portugal. O ministro dos Transportes da Eslováquia anunciou a 7 de outubro que o país vai reconhecer, «dentro de dias», a homologação holandesa do FSD Supervised, o que o tornaria o nono país europeu a fazê-lo. No dia seguinte, a Tesla começou a chamar «Tesla Assisted Driving» ao mesmo sistema nas suas páginas europeias, a seguir ao acordo fechado com a Alemanha em setembro. E a proposta de Orçamento do Estado para 2027 promete novos incentivos à compra de elétricos, ainda sem valores conhecidos.</p>
 <h2>A Eslováquia quer ser o nono país, mas a carta ainda não saiu</h2>
@@ -333,6 +347,7 @@
     <category>Europa</category>
     <category>Software</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/alemanha-acordo-tesla-fsd-energia-chegada-app.webp" type="image/webp" length="55250"/>
     <description>A Alemanha aceita apoiar a aprovação europeia do FSD se a Tesla limitar o excesso de velocidade a 10% e mudar o nome do sistema, a tempo da votação de dezembro. Chega também à app a função Energia de Chegada, que recalcula a rota para a bateria que escolheres.</description>
     <content:encoded><![CDATA[<p>A Alemanha deu esta semana o passo mais concreto até agora para desbloquear o FSD Supervised na Europa. O ministério federal dos Transportes chegou a acordo com a Tesla em setembro: o sistema passa a ficar limitado a um excesso de velocidade máximo de 10%, bem abaixo dos até 50% que preocupavam Berlim, e muda de nome na Europa, de Full Self-Driving para Tesla Assisted Driving. Em troca, a Alemanha vai apoiar a aprovação a nível europeu na próxima oportunidade de voto, em dezembro. Chegou também à aplicação da Tesla uma função discreta mas útil para quem faz viagens longas: a Energia de Chegada, que deixa escolher com quanta bateria queres chegar ao destino e deixa o planeador tratar do resto.</p>
 <h2>Um acordo com três peças</h2>
@@ -354,6 +369,7 @@
     <category>Europa</category>
     <category>Software</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/croacia-confirma-fsd-alemanha-reservas-atualizacao-202638.webp" type="image/webp" length="103968"/>
     <description>A Croácia confirma oficialmente a aprovação do FSD Supervised, o oitavo país europeu, a Alemanha detalha pela primeira vez as suas reservas antes da votação de dezembro na UE, e chega a atualização 2026.38 com faróis mais inteligentes.</description>
     <content:encoded><![CDATA[<p>Esta semana fechou com duas peças importantes do puzzle do FSD Supervised na Europa a encaixarem, e com uma atualização de software mais modesta mas útil no dia a dia. A Croácia tornou-se o oitavo país europeu a confirmar oficialmente a aprovação do sistema, a Alemanha veio finalmente a público explicar porque ainda não deu o seu aval, e chegou aos carros a atualização 2026.38, com faróis mais inteligentes e um ecrã central renovado.</p>
 <h2>Croácia confirma, desta vez por via oficial</h2>
@@ -373,6 +389,7 @@
     <category>FSD</category>
     <category>Europa</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/fsd-croacia-oitavo-pais-15-mil-milhoes-milhas.webp" type="image/webp" length="56150"/>
     <description>A Tesla anuncia a Croácia como o oitavo país europeu a aprovar o FSD Supervised, ainda sem confirmação oficial, no mesmo dia em que a frota mundial ultrapassa os 15 mil milhões de milhas percorridas com o sistema ativo.</description>
     <content:encoded><![CDATA[<p>A Tesla juntou esta semana mais um país à lista do FSD Supervised na Europa. A conta europeia da marca anunciou a 29 de setembro que o sistema foi aprovado na Croácia, o que seria o oitavo país do continente a reconhecer a homologação provisória do regulador holandês RDW, três semanas depois da Eslovénia e da Chéquia. No mesmo dia, a Tesla revelou que a sua frota mundial já ultrapassou os 15 mil milhões de milhas percorridas com o FSD ativo, um número que a marca vai usar como argumento de segurança antes da próxima oportunidade de voto na União Europeia, só em dezembro. Chegou ainda uma patente curiosa, com ventoinhas escondidas que podem equipar o novo Roadster.</p>
 <h2>Croácia junta-se à lista, mas ainda sem confirmação oficial</h2>
@@ -395,6 +412,7 @@
     <category>Europa</category>
     <category>Portugal</category>
     <category>Vendas</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/fsd-votacao-adiada-dezembro-gruenheide-model-y.webp" type="image/webp" length="99502"/>
     <description>O comité técnico da UE retirou da agenda a votação do FSD Supervised marcada para 6 de outubro: a próxima oportunidade é só em dezembro. Ao mesmo tempo, a fábrica de Grünheide prepara-se para subir a produção do Model Y para 7.500 unidades por semana.</description>
     <content:encoded><![CDATA[<p>Esta semana trouxe uma travagem grande ao calendário do FSD Supervised na Europa, e mostrou também a Tesla a acelerar a fábrica que abastece o mercado europeu de Model Y. A votação que estava marcada para 6 de outubro no comité técnico da União Europeia foi retirada da agenda, e a fábrica de Grünheide, perto de Berlim, prepara-se para subir a produção para 7.500 unidades por semana já em outubro.</p>
 <h2>A votação de 6 de outubro não vai acontecer</h2>
@@ -417,6 +435,7 @@
     <category>Europa</category>
     <category>Superchargers</category>
     <category>Portugal</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/fsd-teste-bruxelas-votacao-europeia-mapas-superchargers.webp" type="image/webp" length="29670"/>
     <description>Um teste independente em Bruxelas mediu excesso de velocidade em mais de metade dos troços de 30 km/h percorridos com o FSD Supervised, a dias da votação europeia de 6 de outubro. A app da Tesla também melhorou os mapas dos Superchargers, agora abertos a quem não tem Tesla.</description>
     <content:encoded><![CDATA[<p>Um teste independente feito em Bruxelas trouxe números pouco favoráveis ao FSD Supervised a apenas onze dias da votação europeia de 6 de outubro: em mais de metade dos troços de 30 km/h testados, o sistema excedeu o limite. Ao mesmo tempo, a app da Tesla ganhou uma melhoria mais discreta mas prática, os mapas das estações Supercharger passaram a estar disponíveis também a quem não conduz um Tesla.</p>
 <h2>O teste que pode pesar na votação de 6 de outubro</h2>
@@ -436,6 +455,7 @@
     <category>Portugal</category>
     <category>Europa</category>
     <category>Superchargers</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/portugal-rede-europeia-testes-autonomos-caldas-rainha-dinamarca.webp" type="image/webp" length="43682"/>
     <description>Portugal vai aderir a uma rede europeia de testes de condução autónoma, arrancaram as obras do Supercharger de Caldas da Rainha e a Tesla chega aos 100 mil carros na Dinamarca, o dobro de há três anos.</description>
     <content:encoded><![CDATA[<p>Esta semana trouxe três sinais de que a Tesla continua a avançar em terreno português e europeu, mesmo sem grandes anúncios de produto. Portugal deu um passo oficial rumo aos carros autónomos, a rede de Superchargers ganhou mais uma estação em construção e a Dinamarca mostrou o que significa uma década de vendas continuadas: 100 mil Tesla nas estradas.</p>
 <h2>Portugal adere a rede europeia de testes de condução autónoma</h2>
