@@ -6,8 +6,35 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 04 Nov 2026 08:53:14 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 08:54:10 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>RDW aprova as mudanças ao FSD: novo nome e limite de 10%, e Xangai cresce 10,3%</title>
+    <link>https://teslaligado.pt/artigos/rdw-aprova-tesla-assisted-driving-limite-10-xangai-outubro.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/rdw-aprova-tesla-assisted-driving-limite-10-xangai-outubro.html</guid>
+    <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>RDW</category>
+    <category>Software</category>
+    <category>Mercado</category>
+    <description>O regulador holandês aprovou o novo nome e o limite de velocidade de 10% do antigo FSD Supervised. Em Xangai, a Tesla entregou 67.829 carros em outubro.</description>
+    <content:encoded><![CDATA[<p>O que até agora era um compromisso político passou a ser uma decisão do regulador. A RDW, a autoridade holandesa que aprovou o sistema da Tesla em abril, confirmou ontem as alterações ao FSD Supervised: novo nome, limite de velocidade mais apertado e definições mais conservadoras ao ligar o carro. No mesmo dia, os números da fábrica de Xangai, que também exporta para a Europa, mostraram mais um mês de crescimento face ao ano passado.</p>
+<h2>A RDW confirma: Tesla Assisted Driving e no máximo mais 10%</h2>
+<p>Segundo o comunicado da RDW de 3 de novembro, o sistema passa a chamar-se Tesla Assisted Driving (TAD) no ecrã do carro, no manual e em toda a informação para o condutor. A alteração aplica-se aos Tesla com o sistema e com hardware 4.0 (HW4) ou mais recente.</p>
+<p>A mudança com mais efeito prático é na margem de velocidade, a percentagem, escolhida pelo condutor, em que o sistema pode afastar-se do limite em vigor por razões de segurança ou de fluidez do trânsito. Era de até mais 50% e passa a ter um máximo de mais 10%. Além disso, sempre que o carro é ligado, essa margem volta a 0%, e as outras funções ligadas à velocidade ficam desligadas por defeito.</p>
+<p>A RDW sublinha que o nome novo não muda o funcionamento: continua a ser um sistema de ajuda à condução e o condutor continua responsável. As alterações chegam por atualização over the air.</p>
+<h2>Porque é que isto conta para a votação europeia</h2>
+<p>Foi a Tesla que pediu à RDW para avaliar um conjunto de pequenas alterações. O regulador diz que não encontrou efeitos negativos ou inesperados e que a homologação existente continua válida, sem precisar de ser alterada ou alargada. A RDW informou os nove países que reconhecem a aprovação holandesa: Bélgica, Croácia, Chéquia, Dinamarca, Eslovénia, Eslováquia, Estónia, Letónia e Lituânia. Com os Países Baixos, são dez.</p>
+<p>O novo nome e o limite de 10% são as condições que a Alemanha negociou com a Tesla para apoiar a aprovação europeia, como contámos no <a class="ilink" href="https://teslaligado.pt/artigos/alemanha-acordo-tesla-fsd-energia-chegada-app.html">artigo sobre o acordo com Berlim</a>. A decisão para toda a União continua no Comité Técnico de Veículos a Motor (TCMV). A RDW diz que essas conversas são confidenciais e não as comenta. Segundo a Electrek, a votação foi adiada para dezembro, no mínimo, e precisa de maioria qualificada: 15 dos 27 Estados, com pelo menos 65% da população da UE.</p>
+<h2>Xangai: 67.829 carros em outubro</h2>
+<p>Segundo dados preliminares de vendas por grosso da Associação Chinesa de Automóveis de Passageiros citados pela Reuters a 3 de novembro, a Tesla vendeu 67.829 Model 3 e Model Y feitos em Xangai em outubro, incluindo exportações para a Europa, Ásia-Pacífico e Canadá. É mais 10,3% do que em outubro de 2025 e o 12.º mês seguido de subida anual. Face a setembro, mês que fecha um trimestre, houve uma queda de 28,9%.</p>
+<p>A Reuters não separa quantos destes carros seguiram para a Europa.</p>
+<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
+<p>Em Portugal, o sistema continua sem aprovação: o Governo, através da Secretaria de Estado da Mobilidade, recusou reconhecer a homologação da RDW, e Portugal não está na lista de países informados. O ponto de situação está no nosso <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">guia do FSD em Portugal e na Europa</a>.</p>
+<p>Se um dia chegar cá, já sabes como vai funcionar: no máximo 10% acima do limite e a margem a zero sempre que ligas o carro. Por exemplo, num troço de autoestrada a 120 km/h e com a margem no máximo, isso dá até 132 km/h, contra até 180 km/h com a margem antiga de 50%. Quem já paga a subscrição noutro país vai ver o novo nome e as definições novas por atualização.</p>
+<p>Para quem quer comprar: a alteração aprovada aplica-se a carros com HW4 ou mais recente. O preço da subscrição na Europa mantém-se nos 99 euros por mês, como está no guia.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Tesla volta a crescer em Portugal em outubro e a 2026.32.300 traz novidades</title>
     <link>https://teslaligado.pt/artigos/tesla-portugal-outubro-matriculas-europa-atualizacao-2026-32-300.html</link>
@@ -458,26 +485,6 @@
 <p>O diretor da fábrica, André Thierig, já tinha anunciado em junho a subida de 5.000 para 6.200 unidades semanais, e a fábrica conseguiu, entretanto, reduzir o tempo de ciclo das secções principais de cerca de 80 para 45 segundos. É de Grünheide que sai o <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">Model Y vendido em Portugal</a>, por isso uma fábrica a produzir mais depressa é normalmente boa notícia para os prazos de entrega.</p>
 <h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
 <p>Nenhuma destas notícias muda o que se pode fazer com um Tesla em Portugal hoje. O adiamento da votação europeia empurra para dezembro, na melhor das hipóteses, a possibilidade de o FSD Supervised chegar cá de uma só vez, sem depender de uma decisão isolada do IMT, por isso quem está a contar com essa via precisa de ter paciência para mais um trimestre. Do lado da produção, a aceleração em Grünheide é sobretudo uma notícia para quem está a decidir encomendar agora: mais capacidade de fábrica tende a traduzir-se em prazos de entrega mais curtos, sobretudo a caminho do fim do trimestre, quando a Tesla costuma concentrar as entregas na Europa.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>FSD excedeu velocidade em Bruxelas antes da votação europeia, e os mapas de Supercharger melhoram na app</title>
-    <link>https://teslaligado.pt/artigos/fsd-teste-bruxelas-votacao-europeia-mapas-superchargers.html</link>
-    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-teste-bruxelas-votacao-europeia-mapas-superchargers.html</guid>
-    <pubDate>Fri, 25 Sep 2026 08:00:00 GMT</pubDate>
-    <category>FSD</category>
-    <category>Europa</category>
-    <category>Superchargers</category>
-    <category>Portugal</category>
-    <enclosure url="https://teslaligado.pt/img/artigos/fsd-teste-bruxelas-votacao-europeia-mapas-superchargers.webp" type="image/webp" length="29670"/>
-    <description>Um teste independente em Bruxelas mediu excesso de velocidade em mais de metade dos troços de 30 km/h percorridos com o FSD Supervised, a dias da votação europeia de 6 de outubro. A app da Tesla também melhorou os mapas dos Superchargers, agora abertos a quem não tem Tesla.</description>
-    <content:encoded><![CDATA[<p>Um teste independente feito em Bruxelas trouxe números pouco favoráveis ao FSD Supervised a apenas onze dias da votação europeia de 6 de outubro: em mais de metade dos troços de 30 km/h testados, o sistema excedeu o limite. Ao mesmo tempo, a app da Tesla ganhou uma melhoria mais discreta mas prática, os mapas das estações Supercharger passaram a estar disponíveis também a quem não conduz um Tesla.</p>
-<h2>O teste que pode pesar na votação de 6 de outubro</h2>
-<p>A associação belga Johanna.be, que defende a segurança de peões e ciclistas, testou o FSD Supervised em Bruxelas ao longo de três dias em julho, num total de cerca de 400 km percorridos sobretudo em ruas residenciais. O resultado: o sistema excedeu o limite de 30 km/h em 55% dos troços testados, com uma velocidade média de 44 km/h, e chegou a mostrar no ecrã um limite de 50 km/h em zonas onde o limite real era de 30. Em ruas partilhadas com limite de 20 km/h, a percentagem de excesso foi de 42%. Os testadores registaram ainda tentativas repetidas de ultrapassar ciclistas em fietsstraten, as ruas belgas onde isso é proibido.</p>
-<p>A Organização Mundial de Saúde é citada no relatório: um peão atropelado a 44 km/h tem quase seis vezes mais probabilidade de morrer do que a 30 km/h. Vale notar que a Bélgica é um dos sete países que já aprovaram o <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">FSD Supervised</a>, e o teste da Johanna.be junta-se às objeções já levantadas pela Suécia sobre a função Speed Offset, que permite ao carro exceder o limite quando acompanha o trânsito.</p>
-<h2>A app da Tesla melhora os mapas dos Superchargers, e abre-os a quem não tem Tesla</h2>
-<p>Os mapas detalhados de cada estação Supercharger, que chegaram à app da Tesla há poucos dias, ganharam agora uma versão para telemóvel, disponível a partir da versão 4.61.0 da app, e passaram a estar acessíveis também a condutores de outras marcas. Por agora é uma vista simplificada, de cima para baixo, sem a possibilidade de rodar a câmara como no ecrã do carro, e o zoom pode causar uma pequena falha visual por troca de plataforma de mapas. &quot;Decidimos que era mais importante levar ferramentas úteis aos condutores agora, vamos aperfeiçoar depois&quot;, disse Alex Guichet, responsável de design de interface da Tesla para Energia e Carregamento.</p>
-<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
-<p>Nenhuma destas notícias muda o calendário português. O teste de Bruxelas não é uma decisão oficial, é uma medição feita por uma associação independente, mas é o tipo de dado que os opositores da votação de 6 de outubro vão usar, junto com a posição já conhecida da Suécia, para argumentar contra uma aprovação europeia alargada. Se pesar na votação, o efeito indireto chega também a Portugal, que continua a depender dessa decisão para ultrapassar a falta de um regime nacional próprio. Já a expansão dos mapas de Superchargers é uma boa notícia prática, sobretudo para quem partilha a estrada com Tesla mas conduz outra marca: em Portugal, onde já há <a class="ilink" href="https://teslaligado.pt/superchargers-portugal.html">pelo menos uma estação coberta</a>, a app deve continuar a ganhar mais localizações nas próximas semanas, mesmo que a versão do telemóvel ainda não seja tão completa como a do ecrã do carro.</p>]]></content:encoded>
   </item>
 </channel>
 </rss>
