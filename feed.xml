@@ -6,8 +6,35 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e FSD na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 05 Nov 2026 08:39:15 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:33:02 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Finlândia reconhece o Tesla Assisted Driving e passa a ser o 11.º país</title>
+    <link>https://teslaligado.pt/artigos/finlandia-reconhece-tesla-assisted-driving-11-pais-xangai-exportacoes.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/finlandia-reconhece-tesla-assisted-driving-11-pais-xangai-exportacoes.html</guid>
+    <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+    <category>FSD</category>
+    <category>Europa</category>
+    <category>Finlândia</category>
+    <category>Mercado</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/finlandia-reconhece-tesla-assisted-driving-11-pais-xangai-exportacoes.webp" type="image/webp" length="88288"/>
+    <description>A Traficom reconheceu a aprovação holandesa do antigo FSD Supervised e a Finlândia é o 11.º país europeu onde o sistema pode ser usado. A Tesla diz que a distribuição começa em breve.</description>
+    <content:encoded><![CDATA[<p>A Finlândia passou a permitir o Tesla Assisted Driving, o sistema que até há pouco se chamava FSD Supervised. A Traficom, a autoridade finlandesa de transportes e comunicações, anunciou esta manhã que reconheceu a homologação provisória dada pelo regulador holandês. A Tesla Europe reagiu pouco depois no X a dizer que a distribuição começa em breve.</p>
+<h2>Finlândia reconhece a aprovação holandesa</h2>
+<p>Segundo o comunicado da Traficom de 11 de novembro, a decisão foi tomada a 10 de novembro: o regulador reconheceu a homologação provisória concedida pela autoridade holandesa, o que permite usar o sistema nas estradas finlandesas como ajuda à condução. A Tesla pode começar a oferecê-lo de imediato aos clientes no país.</p>
+<p>Com os Países Baixos e os nove países que o RDW, a 3 de novembro, listou como tendo aceitado a homologação, a Finlândia passa a ser o 11.º, pela nossa conta.</p>
+<p>A Traficom justifica o avanço antes da decisão europeia com as alterações que a Tesla fez ao sistema e com a vontade de deixar os condutores finlandeses conhecê-lo antes do pior do inverno. O especialista Jukka Juhola avisa que o inverno foi tido em conta no desenho e na avaliação, mas que podem surgir limitações quando as câmaras ficam cobertas de neve, lama ou outra sujidade.</p>
+<p>O regulador sublinha também que este reconhecimento não vincula a posição da Finlândia na votação do comité técnico europeu, e lembra que as multas por excesso de velocidade continuam a ser sempre do condutor.</p>
+<h2>O que a Traficom diz que mudou no sistema</h2>
+<p>O comunicado destaca o nome: deixa de haver referência a condução autónoma e o sistema passa a chamar-se Tesla Assisted Driving, também nos materiais em finlandês e sueco. Nas definições de velocidade, o condutor deixa de poder pôr o sistema a manter de forma contínua um excesso de 50%, e as opções que permitem exceder o limite são repostas sempre que o carro volta a ser ligado. Os detalhes das alterações aprovadas pela RDW a 3 de novembro estão no nosso <a class="ilink" href="https://teslaligado.pt/artigos/rdw-aprova-tesla-assisted-driving-limite-10-xangai-outubro.html">artigo sobre o novo nome e o limite de 10%</a>.</p>
+<p>A Traficom diz ainda que espera mais alterações antes da aprovação para toda a UE, que não mudam muito o uso mas ajudam o condutor a manter a atenção. Quanto aos carros finlandeses, a Tesla Europe escreveu no X: &quot;Now approved in Finland. Rollout begins soon&quot;. Não deu data.</p>
+<h2>Contexto: para onde foi a produção de Xangai em outubro</h2>
+<p>A fábrica de Xangai, que também exporta Model 3 e Model Y para a Europa, vendeu por grosso 67.829 carros em outubro, como contámos a 4 de novembro. Os dados da Associação Chinesa de Automóveis de Passageiros (CPCA) publicados a 9 de novembro, citados pela CnEVPost e analisados pela Electrek a 10 de novembro, mostram a divisão: 59.012 foram exportados e 8.817 ficaram no mercado chinês. As exportações valeram 87% do mês, um máximo segundo a CnEVPost. As fontes não dizem quantos carros seguiram para a Europa.</p>
+<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
+<p>A decisão finlandesa não muda nada cá. Portugal continua fora da lista. Em setembro, o gabinete da Secretaria de Estado da Mobilidade respondeu que não estão reunidas as condições para reconhecer a homologação holandesa e que o Governo prefere esperar pelo quadro europeu. A próxima porta é a decisão europeia. A Traficom espera que essa decisão saia durante este inverno, mas não dá data. O ponto de situação está no <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">guia do FSD em Portugal e na Europa</a>.</p>
+<p>Se o sistema um dia chegar a Portugal, será com as regras novas: nome Tesla Assisted Driving, margem de velocidade limitada e reposta a cada arranque. A responsabilidade e as multas continuam a ser de quem conduz, como a Traficom faz questão de lembrar.</p>
+<p>Quanto a Xangai: é uma das fábricas que abastecem a Europa, mas os números de outubro não dizem quantos carros vieram para Portugal. Se estás a pensar encomendar, a data de entrega estimada chega por e-mail minutos depois da encomenda e vai sendo atualizada na conta Tesla, como explica o <a class="ilink" href="https://teslaligado.pt/comprar-tesla-portugal.html">guia para comprar um Tesla em Portugal</a>.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Tesla abre centro de engenharia em Berlim e a volta do Cybercab começa em Zurique</title>
     <link>https://teslaligado.pt/artigos/tesla-centro-engenharia-berlim-cybercab-zurique-queixa-fsd-coreia.html</link>
@@ -470,28 +497,6 @@
 <p>A atualização 2026.27.38, ou 2026.38, começou a chegar a 30 de setembro, por agora a um ritmo lento: só 63 carros, cerca de 0,5% da frota, já a receberam. As novidades mais visíveis são um ecrã central com imagens de maior qualidade do carro e um ambiente de estacionamento mais detalhado, disponível em todo o mundo para computadores AMD nos Model 3 e Model Y, e o nivelamento automático dos faróis de baixo feixe, que ajusta a inclinação consoante a condução e o trânsito para reduzir o encadeamento de quem vem em sentido contrário, sobretudo no Model 3. Os <a class="ilink" href="https://teslaligado.pt/superchargers-portugal.html">mapas detalhados dos Superchargers</a>, lançados há duas semanas só para carros com computador Intel, passam agora a abranger mais modelos com esse mesmo processador, incluindo Model S e Model X mais antigos. Há ainda correções de segurança para toda a gama.</p>
 <h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
 <p>Nenhuma destas notícias muda o FSD em Portugal amanhã de manhã, mas a confirmação oficial da Croácia reforça o padrão que já se via noutros países: quando chega, a confirmação quase sempre segue o anúncio da Tesla em poucos dias. Mais interessante é a Alemanha pôr finalmente as suas objeções em cima da mesa: saber exatamente o que preocupa um dos três países grandes que faltam, a par de Itália e Espanha, é mais útil do que um simples não sem explicação, e dá uma ideia mais clara do que vai pesar na votação de dezembro. Entretanto, a 2026.38 é uma atualização menor, mas os faróis adaptativos são o tipo de detalhe que se nota todos os dias ao volante, e a expansão dos mapas de Supercharger a mais carros com processador Intel é boa notícia para quem conduz um Model S ou X mais antigo e também usa a rede portuguesa.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>FSD Supervised chega à Croácia, o oitavo país europeu, com a frota a somar 15 mil milhões de milhas</title>
-    <link>https://teslaligado.pt/artigos/fsd-croacia-oitavo-pais-15-mil-milhoes-milhas.html</link>
-    <guid isPermaLink="true">https://teslaligado.pt/artigos/fsd-croacia-oitavo-pais-15-mil-milhoes-milhas.html</guid>
-    <pubDate>Wed, 30 Sep 2026 08:00:00 GMT</pubDate>
-    <category>FSD</category>
-    <category>Europa</category>
-    <category>Portugal</category>
-    <enclosure url="https://teslaligado.pt/img/artigos/fsd-croacia-oitavo-pais-15-mil-milhoes-milhas.webp" type="image/webp" length="56150"/>
-    <description>A Tesla anuncia a Croácia como o oitavo país europeu a aprovar o FSD Supervised, ainda sem confirmação oficial, no mesmo dia em que a frota mundial ultrapassa os 15 mil milhões de milhas percorridas com o sistema ativo.</description>
-    <content:encoded><![CDATA[<p>A Tesla juntou esta semana mais um país à lista do FSD Supervised na Europa. A conta europeia da marca anunciou a 29 de setembro que o sistema foi aprovado na Croácia, o que seria o oitavo país do continente a reconhecer a homologação provisória do regulador holandês RDW, três semanas depois da Eslovénia e da Chéquia. No mesmo dia, a Tesla revelou que a sua frota mundial já ultrapassou os 15 mil milhões de milhas percorridas com o FSD ativo, um número que a marca vai usar como argumento de segurança antes da próxima oportunidade de voto na União Europeia, só em dezembro. Chegou ainda uma patente curiosa, com ventoinhas escondidas que podem equipar o novo Roadster.</p>
-<h2>Croácia junta-se à lista, mas ainda sem confirmação oficial</h2>
-<p>O padrão repete-se: a Tesla anuncia, e o país demora dias a confirmar. Foi assim com a Eslovénia em setembro e com a Chéquia, cujo Ministério dos Transportes só validou o anúncio da Tesla um dia depois. Com a Croácia é igual: até à data desta atualização, nenhum órgão oficial croata confirmou de forma independente a aprovação, apesar de a Tesla já falar em rollout &quot;em breve&quot;. Se confirmada, a fase inicial fica limitada a carros com o computador Hardware 4 (AI4); quem tem Hardware 3 deve esperar por uma versão mais leve do FSD v14.</p>
-<p>Para quem segue <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">a situação do FSD em Portugal</a>, a Croácia não muda a conta que interessa: mesmo somando os sete países já confirmados oficialmente, a população coberta continua muito longe do limiar de 65% que a União Europeia exige para uma isenção que abranja todo o bloco, Portugal incluído.</p>
-<h2>15 mil milhões de milhas, mais um número para o dossiê de segurança</h2>
-<p>Longe da política, a Tesla divulgou também a 29 de setembro que a sua frota mundial ultrapassou os 15 mil milhões de milhas percorridas com o FSD Supervised ativo, cerca de 24,1 mil milhões de quilómetros, dos quais 5,8 mil milhões de milhas em ruas urbanas. O ritmo acelerou muito este ano: a frota demorou até ao final de 2025 para chegar aos 7 mil milhões de milhas e levou menos de nove meses a quase duplicar esse valor, somando agora cerca de 41,7 milhões de milhas por dia.</p>
-<p>Os números são globais e não têm desagregação por país europeu, mas juntam-se ao mesmo tipo de argumento que a Tesla já tinha usado com os dados da Bélgica e da Austrália: quanto mais quilómetros percorridos sem incidentes, mais forte fica o caso a apresentar antes de <a class="ilink" href="https://teslaligado.pt/artigos/fsd-votacao-adiada-dezembro-gruenheide-model-y.html">a votação europeia, adiada para dezembro</a>.</p>
-<h2>Uma patente aponta para ventoinhas escondidas no Roadster</h2>
-<p>Do lado mais especulativo, uma patente da Tesla publicada nos Estados Unidos a 29 de setembro descreve um sistema com quatro ventoinhas elétricas escondidas num difusor traseiro, capazes de gerar força descendente (downforce) independente da velocidade do carro, alimentadas pela bateria principal de alta tensão. Os desenhos mostram um Model S, modelo já descontinuado, mas o mais provável é que a tecnologia se destine ao novo Roadster, cuja demonstração está marcada para 15 de outubro. Como em qualquer patente, não há garantia de que a tecnologia chegue mesmo a produção: a Tesla regista muitas ideias que nunca saem do papel.</p>
-<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
-<p>Nenhuma destas notícias muda o que se pode fazer com um Tesla em Portugal hoje. Mesmo que a Croácia venha a ser confirmada como o oitavo país, o caminho país a país continua a avançar devagar de mais para mudar o calendário nacional, e a verdadeira data a vigiar continua a ser dezembro, quando o comité técnico da UE volta a reunir-se. Os 15 mil milhões de milhas são um bom indicador de que a Tesla não está a acumular dados por acaso: está a construir o dossiê que vai levar a essa reunião, para o caso de a discussão avançar desta vez. Quanto à patente do Roadster, é sobretudo uma curiosidade a acompanhar antes de 15 de outubro, sem qualquer efeito em quem conduz um Tesla por cá.</p>]]></content:encoded>
   </item>
 </channel>
 </rss>
