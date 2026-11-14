@@ -6,7 +6,7 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e TAD (ex-FSD) na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Sat, 14 Nov 2026 08:30:15 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 15:28:30 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
   <item>
     <title>TAD (ex-FSD): donos relatam margem de 10% no carro, e Helsínquia prepara táxis Tesla</title>
@@ -55,7 +55,8 @@
 <h2>O Robotaxi nos EUA passa a funcionar 24 horas</h2>
 <p>A conta oficial Robotaxi escreveu no X às 04:31 UTC de 12 de novembro (a mesma hora em Lisboa): &quot;Robotaxi now runs 24/7. Every city we&#39;re available in.&quot; Elon Musk comentou pouco depois: &quot;Robotaxi works 168 hours a week.&quot; É um serviço nos Estados Unidos. O anúncio não acrescenta cidades, não abre autoestradas e não muda o calendário na Europa, onde este serviço não existe.</p>
 <h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
-<p>Isto não muda o que o teu Tesla faz nas estradas portuguesas. O <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">TAD (ex-FSD) continua sem aprovação em Portugal</a>: em setembro, o gabinete da Secretaria de Estado da Mobilidade respondeu que não estão reunidas as condições para reconhecer a homologação holandesa e que o Governo prefere esperar pelo quadro europeu. Esta atualização está a chegar aos países onde o sistema já pode ser usado. Se um dia chegar cá, o nome no ecrã será Tesla Assisted Driving. O limite de 10% e a margem a zero a cada arranque foram aprovados pela RDW, mas nesta versão ainda não estão documentados.</p>
+<p>Isto não muda o que o teu Tesla faz nas estradas portuguesas. O <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">TAD (ex-FSD) continua sem aprovação em Portugal</a>: em setembro, o gabinete da Secretaria de Estado da Mobilidade respondeu que não estão reunidas as condições para reconhecer a homologação holandesa e que o Governo prefere esperar pelo quadro europeu. Esta atualização está a chegar aos países onde o sistema já pode ser usado. Se um dia chegar cá, o nome no ecrã será Tesla Assisted Driving. O limite de 10% e a margem a zero a cada arranque foram aprovados pela RDW, mas nesta versão ainda não estão documentados nas notas.</p>
+<p>Atualização de 14 de novembro: as notas da 2026.39.100 continuam a falar só do nome e a afirmar que o comportamento não muda, e continuam sem mencionar o limite de 10%. Donos nos Países Baixos e na Bélgica relatam, no entanto, que esta versão já aplica essas regras no carro; a Tesla não o confirmou publicamente. O acompanhamento está no <a class="ilink" href="https://teslaligado.pt/artigos/tad-margem-10-donos-2026-39-100-meneva-taxis-helsinquia.html">artigo de 14 de novembro</a>.</p>
 <p>O Robotaxi a funcionar 24 horas é notícia para quem segue o serviço nos EUA. Não aproxima um serviço semelhante em Portugal nem antecipa a votação europeia.</p>]]></content:encoded>
   </item>
   <item>
