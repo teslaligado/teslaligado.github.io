@@ -6,8 +6,40 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e TAD (ex-FSD) na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 16 Nov 2026 13:02:18 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 08:36:02 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Tesla vai fazer o Cybercab em Grünheide, e a RDW aprova mais mudanças ao TAD</title>
+    <link>https://teslaligado.pt/artigos/cybercab-gruenheide-2029-rdw-nova-atualizacao-tad-hungria-testes.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/cybercab-gruenheide-2029-rdw-nova-atualizacao-tad-hungria-testes.html</guid>
+    <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+    <category>Cybercab</category>
+    <category>Giga Berlim</category>
+    <category>TAD</category>
+    <category>Europa</category>
+    <category>Hungria</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/cybercab-gruenheide-2029-rdw-nova-atualizacao-tad-hungria-testes.webp" type="image/webp" length="100248"/>
+    <description>A Tesla anunciou a 16 de novembro 3 mil milhões de euros para fazer o Cybercab em Grünheide a partir de 2029. No mesmo dia, a RDW aprovou mais mudanças ao TAD (ex-FSD).</description>
+    <content:encoded><![CDATA[<p>A fábrica alemã da Tesla, que faz Model Y para a Europa, vai crescer, para fazer um carro sem volante nem pedais. A 16 de novembro, a Tesla anunciou um primeiro investimento de cerca de 3 mil milhões de euros em Grünheide, perto de Berlim, para produzir o Cybercab. No mesmo dia, a RDW, o regulador holandês, aprovou uma nova atualização do Tesla Assisted Driving (TAD, ex-FSD), desta vez centrada na atenção do condutor.</p>
+<h2>Grünheide vai fazer o Cybercab a partir de 2029</h2>
+<p>O diretor da fábrica, André Thierig, escreveu no X a 16 de novembro: &quot;Today we announced a first investment of around € 3b in a new manufacturing building with an anticpated start of production in 2029&quot; [sic]. Segundo Thierig, citado pelo Tagesspiegel, a nova nave poderá produzir &quot;perspektivisch&quot;, ou seja a prazo, até um milhão de Cybercabs, sem dizer em quanto tempo.</p>
+<p>O calendário da Tesla é este: pedido de licença para o edifício ainda em 2026, início da obra no primeiro semestre de 2027 e produção em 2029. Os 3 mil milhões cobrem também edifícios de apoio e mais uma estação de tratamento de águas residuais. Segundo a rbb24, Thierig disse que a produção vai arrancar já com o Cybercab, e a Tesla disse que vai contratar várias centenas de pessoas. O plano de uma segunda nave já era conhecido, como contámos no <a class="ilink" href="https://teslaligado.pt/artigos/giga-berlim-recorde-producao-robotaxi-donos.html">artigo sobre o recorde de produção em Grünheide</a>. A novidade é saber o que lá se vai fazer.</p>
+<p>O Cybercab não tem homologação na União Europeia. Questionado sobre quando poderá circular na Alemanha, Thierig respondeu, segundo a rbb24, que a Tesla não é responsável pela aprovação da condução totalmente autónoma.</p>
+<h2>A RDW aprovou mais mudanças ao TAD</h2>
+<p>No comunicado de 16 de novembro, a RDW diz que avaliou e aprovou uma nova atualização do TAD para carros com Hardware 4 ou mais recente. As mudanças são estas:</p>
+<ul>
+<li>avisos mais cedo, e um &quot;full strike&quot; (uma penalização) se o condutor não estiver atento enquanto o sistema faz uma manobra;</li>
+<li>quando o sistema usa a velocidade máxima contextual, o condutor é informado. Para pôr uma velocidade máxima acima da que o sistema indica, tem de confirmar rodando a roda de deslocamento para cima. Se o carro andar mais depressa do que o limite indicado, o sinal de limite pisca a vermelho;</li>
+<li>acima de 130 km/h, as mãos têm de estar no volante.</li>
+</ul>
+<p>A RDW diz que fez testes em pista e em estrada e não encontrou efeitos adversos ou não intencionais. Não indica versão nem data: é a Tesla que decide quando distribui a atualização. Estas mudanças somam-se às que a RDW aprovou a 3 de novembro, e que os donos dizem já ter no carro, como contámos no <a class="ilink" href="https://teslaligado.pt/artigos/tad-margem-10-donos-2026-39-100-meneva-taxis-helsinquia.html">artigo sobre a margem de 10%</a>. A RDW informou os 10 países que reconhecem a sua homologação. A decisão para toda a União continua no comité técnico europeu (TCMV).</p>
+<h2>Hungria: testes anunciados, ainda sem data</h2>
+<p>A 15 de novembro, o ministro húngaro da Ciência e Tecnologia, Zoltán Tanács, anunciou num vídeo no Facebook que o Governo decidiu lançar um programa oficial de testes, conduzido pelas autoridades, independentemente da decisão europeia. Segundo o Portfolio, o objetivo é ver se o sistema pode ser usado com segurança cumprindo o código da estrada húngaro. Até à manhã de 17 de novembro, não havia data de início nem duração. Segundo o Portfolio, é o Ministério da Ciência e Tecnologia, de Tanács, que vai começar os testes. Segundo o HVG, no verão o Governo húngaro defendia esperar pela votação europeia. O sistema continua indisponível na Hungria.</p>
+<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
+<p>O Cybercab não muda nada para já: não tem homologação na UE nem preço para a Europa. Para quem quer um Model Y, a notícia diz que Grünheide vai crescer, mas a nova nave é para o Cybercab, não para mais Model Y.</p>
+<p>A atualização aprovada pela RDW só chega aos países que reconhecem a homologação holandesa. Portugal não está nessa lista: o <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">TAD (ex-FSD) continua sem aprovação em Portugal</a>. Se um dia chegar, vem com estas regras: mais avisos, mãos no volante acima de 130 km/h e mais informação sobre a velocidade máxima.</p>
+<p>A Hungria mostra outro caminho. A 25 de setembro, o gabinete da Secretaria de Estado da Mobilidade justificou não reconhecer a homologação holandesa com a falta de uma validação técnica independente por autoridades portuguesas. A Hungria decidiu pôr as suas próprias autoridades a testar o sistema, ainda sem data.</p>]]></content:encoded>
+  </item>
   <item>
     <title>TAD (ex-FSD): donos relatam margem de 10% no carro, e Helsínquia prepara táxis Tesla</title>
     <link>https://teslaligado.pt/artigos/tad-margem-10-donos-2026-39-100-meneva-taxis-helsinquia.html</link>
@@ -482,29 +514,6 @@
 <p>A troca de nome nasce do acordo fechado em setembro com o Ministério dos Transportes alemão: a Alemanha pediu um nome que não sugerisse condução totalmente autónoma sem supervisão humana, e um limite de velocidade de 10% acima do sinalizado, bem abaixo dos até 50% permitidos antes. Em troca, Berlim comprometeu-se a apoiar <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">a aprovação europeia na votação de dezembro</a>, a mesma que decide se o sistema chega a Portugal sem precisar de uma decisão isolada do IMT. Para já, nada disto muda o que o sistema faz: continua a ser um pacote de nível 2, supervisionado, e continua sem aprovação para circular em estrada portuguesa.</p>
 <h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
 <p>Nenhuma destas notícias muda o preço de um Tesla em Portugal nem traz o FSD (hoje TAD) mais perto da estrada por aqui esta semana, mas ambas valem a pena arquivar. Quem está a decidir entre a versão Performance e outra do Model 3 ganha mais 29 km de autonomia sem pagar mais um euro, desde que o carro seja de produção recente, por isso vale a pena perguntar ao Advisor se a unidade disponível já traz a atualização antes de encomendar. E a mudança de nome no site português é sobretudo um sinal a seguir: se um dia a Tesla chamar Tesla Assisted Driving a uma funcionalidade realmente disponível no teu carro em Portugal, é porque a aprovação, nacional ou europeia, finalmente aconteceu. Até lá, é só uma palavra nova para a mesma espera.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>Eslováquia pode ser o nono país a aprovar o FSD, a Tesla muda de nome na Europa e o Orçamento de 2027 promete novos incentivos</title>
-    <link>https://teslaligado.pt/artigos/eslovaquia-fsd-tesla-assisted-driving-oe2027-incentivos.html</link>
-    <guid isPermaLink="true">https://teslaligado.pt/artigos/eslovaquia-fsd-tesla-assisted-driving-oe2027-incentivos.html</guid>
-    <pubDate>Fri, 09 Oct 2026 08:00:00 GMT</pubDate>
-    <category>FSD</category>
-    <category>Europa</category>
-    <category>Portugal</category>
-    <category>Preços</category>
-    <enclosure url="https://teslaligado.pt/img/artigos/eslovaquia-fsd-tesla-assisted-driving-oe2027-incentivos.webp" type="image/webp" length="54722"/>
-    <description>O ministro dos Transportes eslovaco promete reconhecer o FSD Supervised dentro de dias, a Tesla já chama Tesla Assisted Driving ao sistema nas páginas europeias, e o Orçamento do Estado para 2027 promete novos incentivos a elétricos, ainda sem valores.</description>
-    <content:encoded><![CDATA[<p>Esta semana trouxe três frentes diferentes para quem segue a Tesla em Portugal. O ministro dos Transportes da Eslováquia anunciou a 7 de outubro que o país vai reconhecer, «dentro de dias», a homologação holandesa do FSD Supervised (hoje TAD), o que o tornaria o nono país europeu a fazê-lo. No dia seguinte, a Tesla começou a chamar «Tesla Assisted Driving» ao mesmo sistema nas suas páginas europeias, a seguir ao acordo fechado com a Alemanha em setembro. E a proposta de Orçamento do Estado para 2027 promete novos incentivos à compra de elétricos, ainda sem valores conhecidos.</p>
-<h2>A Eslováquia quer ser o nono país, mas a carta ainda não saiu</h2>
-<p>Jozef Ráž, ministro dos Transportes da Eslováquia, publicou a 7 de outubro de 2026 um vídeo nas redes sociais a anunciar que o seu ministério vai enviar «dentro de dias» uma carta ao regulador holandês RDW, a reconhecer a homologação provisória do FSD Supervised concedida em abril. Ráž disse que os dados mostram que estes carros reduzem a taxa de acidentes, e lembrou que o condutor continua responsável pelo carro. Até ao momento desta atualização, a carta ainda não tinha sido confirmada como enviada, e a Tesla não confirmou uma data de lançamento para o país. Se se confirmar, a Eslováquia junta-se aos oito países que já reconhecem <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">a homologação holandesa</a>: Países Baixos, Lituânia, Estónia, Dinamarca, Bélgica, Eslovénia, Chéquia e Croácia. Vale notar que o anúncio chega poucos dias antes das eleições autárquicas eslovacas, nas quais o próprio Ráž é candidato a presidente da câmara de Bratislava.</p>
-<h2>O FSD já não se chama FSD na Europa</h2>
-<p>Desde 8 de outubro, as páginas de configuração e marketing da Tesla na Europa deixaram de falar em Full Self-Driving (Supervised) e passaram a usar o nome Tesla Assisted Driving, com o Enhanced Autopilot a tornar-se Tesla Assisted Driving Basic nos mercados onde o sistema completo ainda não está disponível, caso de Portugal. Não é uma atualização do software do carro, é só uma mudança de nome, mas não é inofensiva: nasceu do acordo que a Tesla fechou em setembro com o Ministério dos Transportes alemão, que também limita o sistema a um excesso de velocidade máximo de 10% na Europa, bem abaixo dos até 50% permitidos nos Estados Unidos. Horas depois da mudança, os sites em espanhol, irlandês, lituano e no lado francófono da Bélgica ainda mostravam o nome antigo, um sinal de que o processo ainda está em curso.</p>
-<h2>Powershare chega ao Model 3 e ao Model Y, mas só nos EUA</h2>
-<p>A Tesla anunciou a 6 de outubro que o Model 3 e o Model Y passam a poder alimentar a casa através de um Powerwall 3 durante um corte de eletricidade, uma capacidade até agora exclusiva do Cybertruck. A marca promete até dois dias extra de autonomia para uma casa que gaste 30 kWh por dia, com um máximo de 11,52 kW de potência contínua, mas exige um Wall Connector e um contacto com o suporte da Tesla para ativar a função, e só a garante em carros encomendados a partir de 1 de outubro de 2026. Para já está limitada aos Estados Unidos e a Porto Rico, sem data para a Europa, onde a Tesla já vende o Powerwall 3P mas como unidade isolada, sem este tipo de ligação direta ao carro.</p>
-<h2>Orçamento do Estado para 2027 promete mais incentivos, sem valores</h2>
-<p>A proposta de Orçamento do Estado para 2027, divulgada a 8 de outubro, prevê «novos incentivos à aquisição de veículos de emissões nulas», mas sem revelar valores, condições de acesso nem calendário. O <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">incentivo atual</a>, de até 4.000 € para quem troca um carro a combustão com mais de dez anos por um elétrico até 38.500 €, teve em 2026 uma dotação de apenas 10 milhões de euros, bem abaixo dos 17,6 milhões de 2025, e esgotou-se em poucas horas na fase aberta em junho. A proposta ainda tem de ser discutida e votada no parlamento antes de entrar em vigor.</p>
-<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
-<p>Nenhuma destas notícias muda o FSD em Portugal esta semana: mesmo que a Eslováquia confirme a carta, isso não adianta a aprovação europeia, adiada para dezembro, nem substitui uma decisão nacional do IMT. Mas o conjunto mostra o processo a mexer-se em várias frentes ao mesmo tempo, e a mudança de nome é um bom sinal para marcar no calendário: se um dia vires Tesla Assisted Driving no configurador português em vez de FSD, é porque algo mudou de facto na aprovação, não só na etiqueta. Quanto ao Powershare, é sobretudo uma curiosidade por agora, sem qualquer efeito em quem já tem ou pondera o Powerwall 3P por cá. E para quem está a decidir entre comprar este ano ou esperar por um incentivo em 2027, a prudência manda não contar com nada: os valores ainda não existem, e a experiência de 2026 mostra que, quando aparecem, esgotam-se em horas.</p>]]></content:encoded>
   </item>
 </channel>
 </rss>
