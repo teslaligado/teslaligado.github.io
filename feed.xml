@@ -6,8 +6,42 @@
   <atom:link href="https://teslaligado.pt/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Notícias Tesla, atualizações de software e TAD (ex-FSD) na Europa, em português.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 17 Nov 2026 08:36:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 08:39:16 GMT</lastBuildDate>
   <image><url>https://teslaligado.pt/logo.png</url><title>TeslaLigado</title><link>https://teslaligado.pt/</link></image>
+  <item>
+    <title>Grünheide impõe turnos extra no Model Y, e apoio a carenciados só no 2.º semestre de 2027</title>
+    <link>https://teslaligado.pt/artigos/gruenheide-turnos-extra-model-y-apoio-eletricos-carenciados-2027-atualizacao-2026-44-1.html</link>
+    <guid isPermaLink="true">https://teslaligado.pt/artigos/gruenheide-turnos-extra-model-y-apoio-eletricos-carenciados-2027-atualizacao-2026-44-1.html</guid>
+    <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+    <category>Giga Berlim</category>
+    <category>Model Y</category>
+    <category>Incentivos</category>
+    <category>Portugal</category>
+    <category>Software</category>
+    <enclosure url="https://teslaligado.pt/img/artigos/gruenheide-turnos-extra-model-y-apoio-eletricos-carenciados-2027-atualizacao-2026-44-1.webp" type="image/webp" length="122272"/>
+    <description>Segundo o Handelsblatt, a fábrica alemã que faz Model Y para a Europa falhou a meta de outubro e marcou até seis turnos extra. Candidaturas ao apoio a carenciados só na segunda metade de 2027.</description>
+    <content:encoded><![CDATA[<p>A fábrica alemã da Tesla, que faz Model Y para a Europa, vai pôr os trabalhadores a fazer turnos extra até dezembro, segundo o Handelsblatt. A 17 de novembro, soube-se também que o apoio à compra de elétricos para famílias carenciadas não deve aceitar candidaturas antes da segunda metade de 2027. E começou a chegar uma atualização de software que muda a forma como os carregadores aparecem no mapa.</p>
+<h2>Grünheide falhou a meta de outubro e marca turnos extra</h2>
+<p>Segundo o Handelsblatt, a fábrica de Grünheide, perto de Berlim, falhou o objetivo de produção de outubro e impôs mais turnos obrigatórios. Os trabalhadores da produção de veículos vão ter de fazer até seis turnos extra até ao início de dezembro, sempre na noite de sexta-feira e na manhã de sábado. Dois já estão marcados, a 20 e a 21 de novembro. Os outros quatro ainda dependem da evolução da produção. O jornal diz que a direção da fábrica justifica os turnos com a procura pelo Model Y, e que há queixas de trabalhadores na autoridade de segurança no trabalho do estado de Brandemburgo. O jornal baseia-se numa comunicação interna da direção da fábrica, e a Tesla não confirmou publicamente estes turnos.</p>
+<p>Em setembro, a Tesla já tinha imposto três turnos extra para tentar chegar às 7.500 unidades por semana a partir de meados de outubro, como contámos no <a class="ilink" href="https://teslaligado.pt/artigos/fsd-votacao-adiada-dezembro-gruenheide-model-y.html">artigo sobre o adiamento da votação europeia</a>. A Tesla não publicou quantos carros a fábrica fez em outubro.</p>
+<h2>Apoio a elétricos para carenciados: candidaturas só na segunda metade de 2027</h2>
+<p>Em resposta à CNN Portugal, publicada a 17 de novembro, fonte do Ministério do Ambiente e Energia disse que o primeiro aviso deve sair no final do primeiro semestre de 2027. As candidaturas ficam, no mínimo, para a segunda metade do ano. A 3 de novembro, a Lusa tinha escrito que o programa seria lançado &quot;no início de 2027&quot;.</p>
+<p>As regras finais dependem de a Comissão Europeia aprovar o Plano Social para o Clima, o que o ministério espera que aconteça até ao fim de 2026. O que já se sabe:</p>
+<ul>
+<li>o apoio será pago com um vale, decidido antes da compra, como no programa E-Lar;</li>
+<li>deverá contar o rendimento de todo o agregado, como na tarifa social de eletricidade;</li>
+<li>a obrigação de manter o carro durante um período mínimo vale para novos e usados, mas o ministério ainda não diz quanto tempo;</li>
+<li>o primeiro aviso terá uma fase de pré-qualificação das entidades que vendem carros, onde os vales poderão ser usados.</li>
+</ul>
+<p>Segundo a Lusa, a 3 de novembro, o apoio vai de 70% a 90% do valor do carro, até 15 mil euros, e só serve para carros até 37.500 euros, novos ou usados com menos de cinco anos, comprados num concessionário. O <a class="ilink" href="https://teslaligado.pt/artigos/apoio-80-eletricos-detalhes-fsd-eslovaquia-donos.html">primeiro anúncio deste apoio</a> deixava em aberto se os 15 mil euros eram o teto do preço ou do apoio. A 3 de novembro, a Lusa e o Público já tratam os 15 mil euros como teto do apoio, e não do preço. Mas, segundo o Público, a ministra disse no mesmo dia que o preço máximo dos carros ainda não está fechado e que &quot;é natural que seja os 37.500 mais inflação&quot;.</p>
+<h2>Atualização 2026.44.1: carregadores agrupados no mapa</h2>
+<p>A Tesla começou a distribuir a atualização 2026.44.1 a 17 de novembro. Segundo as notas de lançamento publicadas pelo Not a Tesla App, a única novidade, além de melhorias de segurança, é a vista da rede de carregamento: &quot;Charger pins on the map now cluster at normal zoom levels, showing network coverage as you zoom out&quot;. O Not a Tesla App diz que chega a todos os modelos, incluindo os Model S e X mais antigos.</p>
+<p>O site mostra ainda duas mudanças fora das notas: o menu Serviço passa a ter dois separadores, Manutenção (pneus, manutenção recomendada, estado da bateria) e Ações (modo de lavagem, ajuste dos faróis), e o computador do carro passa a chamar-se &quot;SI Computer&quot;. A distribuição começou por poucos carros.</p>
+<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
+<p>Turnos extra querem dizer mais Model Y a sair da fábrica até ao fim do ano. Mas a Tesla não diz quantos vão para Portugal nem se os prazos de entrega mudam.</p>
+<p>No apoio a carenciados, ainda não dá para saber se algum Tesla novo entra. O mais barato, o Model 3 Tração traseira, custa 37.975 € com IVA, segundo o nosso <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">guia de preços</a>, acima dos 37.500 €. Mas esse limite ainda não está fechado, nenhuma das fontes diz se inclui IVA, e a ministra disse ao Observador, a 12 de novembro, que as famílias carenciadas não vão pagar o IVA destes carros. Um Tesla usado com menos de cinco anos pode caber no limite, mas as regras falam em concessionários, e o ministério ainda não explicou quem fica pré-qualificado. Até ao regulamento, não há nada a que te possas candidatar.</p>
+<p>A 2026.44.1 é uma mudança pequena: segundo o Not a Tesla App, o mapa deixa de mostrar dezenas de pinos sobrepostos e, ao afastar a vista, mostra a cobertura da rede.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Tesla vai fazer o Cybercab em Grünheide, e a RDW aprova mais mudanças ao TAD</title>
     <link>https://teslaligado.pt/artigos/cybercab-gruenheide-2029-rdw-nova-atualizacao-tad-hungria-testes.html</link>
@@ -493,27 +527,6 @@
 <p>Para justificar a mudança e defender a aprovação europeia, a Tesla divulgou novos números: mais de 100 milhões de quilómetros percorridos entre abril e agosto de 2026 com o sistema ativo, com apenas 3 colisões em autoestrada e 9 fora dela, contra 137 e 490, respetivamente, em condução totalmente manual nos mesmos troços. São números fornecidos pela própria Tesla, e a Reuters já tinha avisado, numa investigação publicada a 7 de outubro, que vários especialistas em segurança rodoviária duvidam da forma como a marca compara estes grupos. O calendário completo do FSD (hoje TAD) na Europa, <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">país a país, continua no nosso guia</a>.</p>
 <h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
 <p>Nenhuma destas notícias aprova o FSD em Portugal ou muda o preço do Model Y esta semana, mas valem a pena arquivar. A expansão de Grünheide é a melhor notícia indireta para quem está a decidir encomendar: mais capacidade de fábrica e mais investimento em baterias apontam para prazos de entrega mais estáveis ao longo de 2027, embora a construção da nova unidade dependa ainda do licenciamento. Já a chegada do novo nome ao manual português é sobretudo simbólica: o sistema continua a ser o mesmo pacote de nível 2 e continua sem aprovação para Portugal, mas serve de recordatório de que a votação europeia de dezembro é a data que interessa a quem espera pelo FSD por aqui. Quanto aos números de segurança, vale a pena lê-los com a mesma cautela que a própria Reuters recomenda: são dados fornecidos pela Tesla, não uma avaliação independente, e a palavra final continua nas mãos dos reguladores nacionais e do comité técnico da UE.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>Model 3 ganha mais autonomia na Europa e o FSD muda de nome no site português</title>
-    <link>https://teslaligado.pt/artigos/model-3-mais-autonomia-europa-nome-fsd-site-portugues.html</link>
-    <guid isPermaLink="true">https://teslaligado.pt/artigos/model-3-mais-autonomia-europa-nome-fsd-site-portugues.html</guid>
-    <pubDate>Sat, 10 Oct 2026 08:00:00 GMT</pubDate>
-    <category>Preços</category>
-    <category>Europa</category>
-    <category>FSD</category>
-    <category>Portugal</category>
-    <enclosure url="https://teslaligado.pt/img/artigos/model-3-mais-autonomia-europa-nome-fsd-site-portugues.webp" type="image/webp" length="28398"/>
-    <description>A versão Performance do Model 3 passa a ter 600 km WLTP na Europa e a Premium Long Range AWD acelera mais depressa. Em Portugal, o site da Tesla já mostra o novo nome do FSD, Tesla Assisted Driving.</description>
-    <content:encoded><![CDATA[<p>Duas novidades mais discretas esta semana, mas que interessam a quem já tem ou está a pensar comprar um Tesla em Portugal. Na Europa, o Model 3 recebeu um pacote de atualizações que traz mais autonomia à versão Performance e mais aceleração à Premium Long Range AWD. E no site português da Tesla, o FSD já deixou de se chamar FSD: aparece agora como Tesla Assisted Driving, confirmando por aqui a mudança que já tínhamos visto chegar ao resto da Europa.</p>
-<h2>O Model 3 fica com mais autonomia e um ecrã maior</h2>
-<p>A Tesla atualizou a gama europeia do Model 3 com um novo ecrã central de 16 polegadas, com maior resolução e densidade de pixels, que passa a equipar os carros construídos de agora em diante. A mudança mais concreta está na versão Performance, que passou de 571 para 600 km de autonomia WLTP, mais 29 km, sem qualquer alteração à aceleração, que continua nos 3,1 segundos dos 0 aos 100 km/h. A versão Premium Long Range AWD também ficou mais rápida, de 4,4 para 4,0 segundos dos 0 aos 100 km/h, com a mesma autonomia de 660 km. Chegam ainda um forro do tejadilho em preto, a cor de interior Zen Grey e jantes Dark Nova de 19 polegadas na versão Premium.</p>
-<p>A Tesla não anunciou qualquer alteração de preço, por isso os valores em Portugal mantêm-se: 58 475 € para a <a class="ilink" href="https://teslaligado.pt/precos-tesla-portugal.html">versão Performance</a> e 49 975 € para a Premium Long Range AWD. Vale notar que as melhorias só se aplicam a carros construídos a partir de agora: quem já tem o carro entregue não vai ver a autonomia ou a aceleração mudarem por uma atualização de software. A novidade chegou primeiro aos Estados Unidos, a 3 de outubro, e à Europa cinco dias depois.</p>
-<h2>O nome do FSD já mudou no site português</h2>
-<p>Há poucos dias soubemos que a Tesla ia deixar de chamar Full Self-Driving (Supervised) ao sistema na Europa, trocando o nome por Tesla Assisted Driving. Essa mudança já chegou à página portuguesa: tesla.com/pt_pt mostra agora o novo nome em vez do antigo, confirmando que a alteração não ficou pelos mercados que já têm o sistema aprovado.</p>
-<p>A troca de nome nasce do acordo fechado em setembro com o Ministério dos Transportes alemão: a Alemanha pediu um nome que não sugerisse condução totalmente autónoma sem supervisão humana, e um limite de velocidade de 10% acima do sinalizado, bem abaixo dos até 50% permitidos antes. Em troca, Berlim comprometeu-se a apoiar <a class="ilink" href="https://teslaligado.pt/fsd-portugal.html">a aprovação europeia na votação de dezembro</a>, a mesma que decide se o sistema chega a Portugal sem precisar de uma decisão isolada do IMT. Para já, nada disto muda o que o sistema faz: continua a ser um pacote de nível 2, supervisionado, e continua sem aprovação para circular em estrada portuguesa.</p>
-<h2>O que isto significa para quem tem (ou quer) um Tesla em Portugal</h2>
-<p>Nenhuma destas notícias muda o preço de um Tesla em Portugal nem traz o FSD (hoje TAD) mais perto da estrada por aqui esta semana, mas ambas valem a pena arquivar. Quem está a decidir entre a versão Performance e outra do Model 3 ganha mais 29 km de autonomia sem pagar mais um euro, desde que o carro seja de produção recente, por isso vale a pena perguntar ao Advisor se a unidade disponível já traz a atualização antes de encomendar. E a mudança de nome no site português é sobretudo um sinal a seguir: se um dia a Tesla chamar Tesla Assisted Driving a uma funcionalidade realmente disponível no teu carro em Portugal, é porque a aprovação, nacional ou europeia, finalmente aconteceu. Até lá, é só uma palavra nova para a mesma espera.</p>]]></content:encoded>
   </item>
 </channel>
 </rss>
